@@ -31,7 +31,7 @@ Des consoles de récupération ont notamment été recyclées pour fabriquer des
 * Mémoire principale  : 32Ko
 * Mémoire vidéo de 16 ko
 * Couleurs, intégrant 8 palettes de sprite et 8 palettes de fond
-* Attribut aux éléments de fond (tile) , incluant le renversement X/Y
+* Attribut aux éléments de fond (tile), incluant le renversement X/Y
 * Interface [[InfraRouge]] (IR) 
 * deux nouveau mode DMA pour plus d'accelerations graphiques
 * le 4<sup>e</sup> picot du port de jeux en réseau est une entrée numérique
