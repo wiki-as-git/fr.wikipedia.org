@@ -40,5 +40,9 @@ Des consoles de récupération ont notamment été recyclées pour fabriquer des
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
 * Jusqu'a 30 photos enregistrées dans la SRAM de 128Ko
 
+== Voir aussi ==
+
+[[Super Game Boy]]
+
 ==Références==
 {{le}} [http://www.devrs.com/gb/files/faqs.html FAQ Gameboy] (anglais)
