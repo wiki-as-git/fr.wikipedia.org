@@ -1,4 +1,61 @@
-[[de:GameBoy]] [[en:Game Boy]] [[es:Game Boy]] [[nl:GameBoy]] [[ja:ゲームボーイ]]
+{| border="1" cellpadding="2" cellspacing="0" align="right" |
+|-
+| colspan="2" align=center style="color:#ffffff" bgcolor="#222244"|'''Gameboy'''
+|-
+| colspan="2" align=center | [[Image:Gameboy01.jpg|150px|]]
+|-
+| colspan="2" align=center style="color:#ffffff" bgcolor="#222244" | '''Informations générale'''
+|-
+|[[Constructeur]]||[[Nintendo]]
+|-
+|[[Commercialisation]]||[[1988]] (Japon)<BR>[[1989]] (USA)
+|-
+|[[Diffusion]]||[[XXX]]<BR>[[XXX]]
+|-
+|[[Ventes]] (console)<BR>(Jeux)||XXX<BR>XXX
+|-
+|[[Génération]]||8 [[bits]] portables
+|-
+| colspan="2" align=center style="color:#ffffff" bgcolor="#222244"|'''Unité centrale'''
+|-
+|[[Processeur]]||Zilog Z80<BR>8 bits - 4.194304 MHz
+|-
+|[[Mémoire RAM|RAM]]||8 Ko
+|-
+|[[BUS Interne|BUS]]||XXX
+|-
+| colspan="2" align=center style="color:#ffffff" bgcolor="#222244"|'''Affichage'''
+|-
+|[[Processeur]]||XXX
+|-
+|[[Mémoire vidéo|Mémoire]]||8 Ko
+|-
+|[[Écran]]||Reflective LCD
+|-
+|[[Résolution maximale]]||160x144
+|-
+|[[Couleurs maximales]]||4 nuance de gris
+|-
+|[[Nombre de sprites]]||40 sprites (8x8 ou 8x16)
+|-
+|[[Effets inovants]]||XXX
+|-
+| colspan="2" align=center style="color:#ffffff" bgcolor="#222244"|'''Son'''
+|-
+|[[Processeur]]||XXX
+|-
+|[[Mémoire audio|Mémoire]]||XXX
+|-
+|[[Nombres de voix]]||4 stéréo
+|-
+| colspan="2" align=center style="color:#ffffff" bgcolor="#222244"|'''Entrée-sortie'''
+|-
+|[[Média]]s||Cartouche ROM<BR>256 KB à 4 MB
+|-
+|[[Ports manettes]]||Interne
+|-
+|[[Sortie]]||Port serie<br> <small>(jusqu'a 4 consoles)</small>
+|}
 
 La '''GameBoy''' est une [[consoles de jeux vidéo|console]] de [[jeux vidéo]] portable crée par [[Nintendo]] en [[1988]]. 
 
@@ -11,3 +68,9 @@ C'est [[Gunpei Yokoi]], le petit génie de [[Nintendo]] qui créa cette console 
 Il existe également une version en couleur appelée "Gameboy Color".
 
 *Les jeux Gameboy sont utilisables sur sa successeure, la [[Gameboy Advance]], bâti sur les mêmes principes de puissance et de simplicité.
+
+[[de:GameBoy]]
+[[en:Game Boy]]
+[[es:Game Boy]]
+[[nl:GameBoy]]
+[[ja:ゲームボーイ]]
