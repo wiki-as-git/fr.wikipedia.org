@@ -36,3 +36,5 @@ Des consoles de récupération on notamment été recyclées pour fabriquer des 
 ===Camera  GameBoy===
 * 128 x 112 [[pixel|pixels]], en 4 niveaux de gris
 * Jusqu'a 30 photos enregistrée dans la SRAM de 128Ko
+==Références==
+{{le}} [http://www.devrs.com/gb/files/faqs.html FAQ Gameboy] (anglais)
