@@ -1,5 +1,5 @@
 [[de:GameBoy]] [[en:Game Boy]] [[es:Game Boy]] [[nl:GameBoy]] [[ja:ゲームボーイ]] [[zh:Game Boy]]
-
+[[Catégorie:Jeu vidéo]]
 {| border="1" cellpadding="2" cellspacing="0" align="right" |
 |-
 | colspan="2" align=center style="color:#ffffff" bgcolor="#222244"|'''Game Boy'''
