@@ -36,7 +36,7 @@ Le Game Boy est également utilisé pour faire de la musique électronique.
 * Attribut aux éléments de fond (tile), incluant le renversement X/Y
 * Interface [[InfraRouge]] (IR) 
 * deux nouveau mode DMA pour plus d'accelerations graphiques
-* le 4<sup>e</sup> picot du port de jeux en réseau est une entrée numérique
+* le 4{{e}} picot du port de jeux en réseau est une entrée numérique
 
 ===Camera  GameBoy===
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
