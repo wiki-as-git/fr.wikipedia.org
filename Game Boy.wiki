@@ -56,7 +56,7 @@
 |-
 |[[Ports manettes]]||Interne
 |-
-|[[Sortie]]||Port serie<br> <small>(jusqu'a 4 consoles)</small>
+|[[Sortie]]||Port serie<br /> <small>(jusqu'a 4 consoles)</small>
 |}
 
 La '''GameBoy''' est une [[consoles de jeux vidéo|console]] de [[jeux vidéo]] portable crée par [[Nintendo]] en [[1988]]. 
