@@ -29,7 +29,7 @@ Le Game Boy est également utilisé pour faire de la musique électronique.
 * Connecteurs : port série pour mise en reseau des consoles (jusqu'a quatre)
 
 ===Gameboy Color===
-* Processeur principal cadencé à 4 MHz ou 8Mhz
+* Processeur principal cadencé à 4 MHz ou 8MHz
 * Mémoire principale  : 32Ko
 * Mémoire vidéo de 16 ko
 * Couleurs, intégrant 8 palettes de sprite et 8 palettes de fond
