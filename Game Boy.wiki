@@ -1,3 +1,5 @@
+[[de:GameBoy]] [[en:Game Boy]] [[es:Game Boy]] [[nl:GameBoy]] [[ja:ゲームボーイ]] [[zh:Game Boy]]
+
 {| border="1" cellpadding="2" cellspacing="0" align="right" |
 |-
 | colspan="2" align=center style="color:#ffffff" bgcolor="#222244"|'''Gameboy'''
@@ -68,9 +70,3 @@ C'est [[Gunpei Yokoi]], le petit génie de [[Nintendo]] qui créa cette console 
 Il existe également une version en couleur appelée "Gameboy Color".
 
 *Les jeux Gameboy sont utilisables sur sa successeure, la [[Gameboy Advance]], bâti sur les mêmes principes de puissance et de simplicité.
-
-[[de:GameBoy]]
-[[en:Game Boy]]
-[[es:Game Boy]]
-[[nl:GameBoy]]
-[[ja:ゲームボーイ]]
