@@ -1,4 +1,5 @@
-[[de:GameBoy]] [[en:Game Boy]] [[es:Game Boy]] [[nl:GameBoy]] [[ja:ゲームボーイ]] [[zh:Game Boy]]
+[[de:GameBoy]] [[en:Game Boy]] [[es:Game Boy]] [[nl:GameBoy]] [[ja:ゲームボーイ]] [[pl:Game Boy]] [[zh:Game Boy]]
+
 [[Catégorie:Console de jeux vidéo]]
 [[Image:Gameboy01.jpg|150px|thumb|right|Le Gameboy]]
 Le '''Game Boy''' est une [[consoles de jeux vidéo|console]] de [[jeux vidéo]] portable crée par [[Nintendo]] en [[1988]]. 
