@@ -14,10 +14,25 @@ Depuis sa sortie en [[1988]], le Game Boy a connu plusieurs successeurs, dont le
 
 Des consoles de récupération on notamment été recyclées pour fabriquer des [[électrocardiographe]]s à destination de [[Madagascar]] dans la lutte contre le [[paludisme]] car la cartouche de jeu avec cette nouvelle fonctionnalité engendre un coût de fabrication de seulement 30 euros.
 == Spécifications techniques ==
-* '''processeur principal''' : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
-* '''mémoire principale ([[RAM]])''' : 8ko
-* '''écran''' : [[Écran_à_LCD|LCD]]
-* '''capacités graphiques''' : 160x144 en 4 nuances de gris, jusqu'a 40 sprites simultanement (8x8 ou 8x16)
-* '''capacités sonores''' : 4 voies stéréo
-* '''mémoire de masse''' :  cartouches de jeux de 256 Ko a 4 Mo
-* '''connecteurs''' : port série pour mise en reseau des consoles (jusqu'a quatre)
+===Gameboy===
+* Processeur principal : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
+* Mémoire principale ([[RAM]]) : 8ko
+* Ecran : [[Écran_à_LCD|LCD]]
+* Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'a 40 [[sprite|sprites]] simultanement (8x8 ou 8x16)
+** Mémoire Vidéo : 8Ko
+* Capacités sonores : 4 voies stéréo
+* Mémoire de masse :  cartouches de jeux de 256 Ko a 4 Mo
+* Connecteurs : port série pour mise en reseau des consoles (jusqu'a quatre)
+
+===Gameboy Color===
+* Processeur principal cadencé à 4 MHz ou 8Mhz
+* Mémoire principale  : 32Ko
+* Mémoire vidéo de 16 ko
+* Couleurs, intégrant 8 palettes de sprite et 8 palettes de fond
+* Attribut aux éléments de fond (tile) , incluant le renversement X/Y
+* Interface [[InfraRouge]] (IR) 
+* deux nouveau mode DMA pour plus d'accelerations graphiques
+* le 4<sup>e</sup> picot du port de jeux en réseau est une éntrée numérique
+===Camera  GameBoy===
+* 128 x 112 [[pixel|pixels]], en 4 niveaux de gris
+* Jusqu'a 30 photos enregistrée dans la SRAM de 128Ko
