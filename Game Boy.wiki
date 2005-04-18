@@ -22,7 +22,7 @@ Le Game Boy est également utilisé pour faire de la musique électronique.
 * Processeur principal : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
 * Mémoire principale ([[RAM]]) : 8ko
 * Ecran : [[Écran à cristaux liquides|LCD]]
-* Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'a 40 [[sprite]]s simultanement (8x8 ou 8x16)
+* Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'a 40 [[sprite (jeu vidéo)|sprite]]s simultanement (8x8 ou 8x16)
 ** Mémoire Vidéo : 8Ko
 * Capacités sonores : 4 voies stéréo
 * Mémoire de masse :  cartouches de jeux de 256 Ko a 4 Mo
