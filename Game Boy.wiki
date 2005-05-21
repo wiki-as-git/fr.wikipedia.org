@@ -17,6 +17,8 @@ Des consoles de récupération ont notamment été recyclées pour fabriquer des
 
 Le Game Boy est également utilisé pour faire de la musique électronique.
 
+A noter que c'est actuellement la console qui s'est le plus vendue dans le monde.
+
 == Spécifications techniques ==
 ===Gameboy===
 * Processeur principal : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
