@@ -21,7 +21,7 @@ Le Game Boy est également utilisée pour faire de la musique électronique.
 A noter que c'est actuellement la console qui s'est le plus vendue dans le monde (plus de 110 millions d'exemplaires).
 
 == Spécifications techniques ==
-===Gameboy===
+===Game Boy===
 * Processeur principal : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
 * Mémoire principale ([[RAM]]) : 8ko
 * Ecran : [[Écran à cristaux liquides|LCD]]
@@ -31,7 +31,7 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * Mémoire de masse :  cartouches de jeux de 256 Ko a 4 Mo
 * Connecteurs : port série pour mise en reseau des consoles (jusqu'a quatre)
 
-===Gameboy Color===
+===Game Boy Color===
 * Processeur principal cadencé à 4 MHz ou 8MHz
 * Mémoire principale  : 32Ko
 * Mémoire vidéo de 16 ko
@@ -41,9 +41,9 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * deux nouveau mode DMA pour plus d'accelerations graphiques
 * le 4{{e}} picot du port de jeux en réseau est une entrée numérique
 
-===Camera  GameBoy===
+===Camera Game Boy===
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
-* Jusqu'a 30 photos enregistrées dans la SRAM de 128Ko
+* Jusqu'a 30 photos enregistrées dans la SRAM de 128 ko
 
 == Voir aussi ==
 
