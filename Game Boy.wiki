@@ -37,7 +37,7 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * Mémoire vidéo de 16 ko
 * Couleurs, intégrant 8 palettes de sprite et 8 palettes de fond
 * Attribut aux éléments de fond (tile), incluant le renversement X/Y
-* Interface [[InfraRouge]] (IR) 
+* Interface [[Infrarouge]] (IR) 
 * deux nouveau mode DMA pour plus d'accelerations graphiques
 * le 4{{e}} picot du port de jeux en réseau est une entrée numérique
 
