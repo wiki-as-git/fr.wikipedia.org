@@ -47,9 +47,9 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 
 == Voir aussi ==
 
-[[Super Game Boy]]
-[[Game Boy Advance SP]]
-[[Game Boy Color]]
+* [[Super Game Boy]]
+* [[Game Boy Advance SP]]
+* [[Game Boy Color]]
 
 ==Références==
 * [http://www.devrs.com/gb/files/faqs.html FAQ Game Boy] (anglais)
