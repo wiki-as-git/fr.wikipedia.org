@@ -45,6 +45,12 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
 * Jusqu'a 30 photos enregistrées dans la SRAM de 128 ko
 
+== Chiffres ==
+
+100.000.000 C'est le nom de Game boy vendue en 2000 (exclu GBA, BGA SP et GB micro)
+
+400.000.000 C'est le nombre de Jeu Game boy vendue en 2000 (exlu également GBA, etc) 
+
 == Voir aussi ==
 
 * [[Super Game Boy]]
