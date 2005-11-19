@@ -46,7 +46,7 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 
 == Chiffres ==
 
-100.000.000 C'est le nombre de Game boy vendues en 2000 (sont exclues les GBA, BGA SP et GB micro)
+100.000.000 C'est le nombre de Game boy vendues en 2000 (sont exclues les GBA, GBA SP et GB micro)
 
 400.000.000 C'est le nombre de jeux Game boy vendus en 2000 (sont également exclues GBA, etc)
 
