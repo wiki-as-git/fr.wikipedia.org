@@ -44,6 +44,9 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
 * Jusqu'a 30 photos enregistrées dans la SRAM de 128 ko
 
+=== [[Game Boy Micro]] ===
+
+
 == Chiffres ==
 
 100.000.000 C'est le nombre de Game boy vendues en 2000 (sont exclues les GBA, GBA SP et GB micro)
