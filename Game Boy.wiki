@@ -40,7 +40,7 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * deux nouveau mode DMA pour plus d'accéleration graphique
 * le 4{{e}} picot du port de jeu en réseau est une entrée numérique
 
-=== [[Camera Game Boy]] ===
+=== [[Camera Game Boy]] ===test
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
 * Jusqu'a 30 photos enregistrées dans la SRAM de 128 ko
 
