@@ -29,7 +29,7 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * Capacités sonores : 4 voies stéréo
 * Mémoire de masse :  cartouches de jeux de 256 Ko a 4 Mo
 * Connecteurs : port série pour mise en reseau des consoles (jusqu'a quatre)
-* Poids : ????
+* Poids : ???? (sans piles et avec le jeu TETRIS SVP)
 
 === [[Game Boy Color]] ===
 * Processeur principal cadencé à 4 MHz ou 8MHz
