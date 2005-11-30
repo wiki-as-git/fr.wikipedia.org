@@ -40,6 +40,7 @@ A noter que c'est actuellement la console qui s'est le plus vendue dans le monde
 * Interface [[Infrarouge]] (IR) 
 * deux nouveau mode DMA pour plus d'accéleration graphique
 * le 4{{e}} picot du port de jeu en réseau est une entrée numérique
+* lâm Hua pèse pas lourd dans le concours
 
 === [[Camera Game Boy]] ===
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
