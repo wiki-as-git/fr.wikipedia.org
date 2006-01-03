@@ -35,15 +35,10 @@ En 1995 alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'echec du [[Virtual
 [[Image:Spot01.jpg|right|150px]]
 Peu de personnes connaissent ce modele pourtant tres interressant.En effet cette GBL n'a jamais traversée les frontieres nippones.Vendue le 14 avril 1998 elle aporte a la [[GBP]] ce qui lui faisait le plus default:une bonne lisibilité.Avec un retro-eclairage de bonne facture il etait ainsi possible de jouer dans le noir.Cette version a été rapidement éclipsée par la [[Game Boy Color]].Non pas que ce fut un echec mais [[Nintendo]] lui meme voulait contrecarer les plans d'une concurence de plus en plus agressive.
 
-=== [[Game Boy Color]] ===
-* Processeur principal cadencé à 4 MHz ou 8MHz
-* Mémoire principale  : 32Ko
-* Mémoire vidéo de 16 ko
-* Couleurs, intégrant 8 palettes de sprite et 8 palettes de fond
-* Attribut aux éléments de fond (tile), incluant le renversement X/Y
-* Interface [[Infrarouge]] (IR) 
-* deux nouveau mode DMA pour plus d'accéleration graphique
-* la 4{{e}} proche du port de jeu en réseau est une entrée numérique série
+=== Game Boy Color ===
+:''Voir l'article principal'' [[Game Boy Advance]]
+
+Sortie en novembre 1998, la console Game Boy Color (couramment référencé par GBC) propose un écran couleur pour une forme légèrement plus grande que la [[Game Boy Pocket]]. Elle double la cadence processeur et sa quantité de mémoire pour atteindre les 8 MHz avec 32 Ko. Un point intéressant de cette console réside dans sa capacité à lire les anciennes cartouches de jeu Game Boy en sélectionnant les couleurs à utiliser. C'est une fonction importante de cette console, puisqu'elle a permis de raviver la commercialisation en conservant une gamme existante de jeu, et ainsi de proposer sensiblement plus de jeux que ses concurrents directes. Technologiquement, cette console à été comparé à la [[Nintendo Entertainment System|NES]] des années 1980.
 
 ===Game Boy Advance===
 :''Voir l'article principal [[Game Boy Advance]]''
