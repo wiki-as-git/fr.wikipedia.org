@@ -43,7 +43,7 @@ Peu de personnes connaissent ce modele pourtant tres interressant.En effet cette
 * Attribut aux éléments de fond (tile), incluant le renversement X/Y
 * Interface [[Infrarouge]] (IR) 
 * deux nouveau mode DMA pour plus d'accéleration graphique
-* le 4{{e}} picot du port de jeu en réseau est une entrée numérique
+* la 4{{e}} proche du port de jeu en réseau est une entrée numérique série
 
 ===Game Boy Advance===
 :''Voir l'article principal [[Game Boy Advance]]''
