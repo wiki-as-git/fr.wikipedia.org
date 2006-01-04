@@ -21,15 +21,15 @@ Des consoles de récupération ont notamment été recyclées pour fabriquer des
 * Processeur principal : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
 * Mémoire principale ([[RAM]]) : 8ko
 * Ecran : [[Écran à cristaux liquides|LCD]]
-* Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'a 40 [[sprite (jeu vidéo)|sprite]]s simultanement (8x8 ou 8x16)
-** Mémoire Vidéo : 8Ko
+* Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'a 40 [[sprite (jeu vidéo)|sprite]]s simultanément (8x8 ou 8x16)
+** Mémoire Vidéo : 8 Ko
 * Capacités sonores : 4 voies stéréo
-* Mémoire de masse :  cartouches de jeux de 256 Ko a 4 Mo
-* Connecteurs : port série pour mise en reseau des consoles (jusqu'a quatre)
+* Mémoire de masse :  cartouches de jeux de 256 Ko à 4 Mo
+* Connecteurs : port série pour mise en réseau des consoles (jusqu'é quatre)
 
 ===Game Boy Pocket===
 [[Image:Gameboypocket.jpg|thumb|100px|left|La console Game Boy Pocket]]
-En 1995 alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'echec du [[Virtual Boy]] on apprend qu'une version relooké de la Game Boy et en preparation.En effet la firme vient non seulement de connaitre l'un de ses plus gros echec mais voit egalement chuter ses ventes de Game Boy. Normal apres plus de 6 ans de services... Mais [[Nintendo]],croyant beaucoup en son [[Virtual Boy]] n'avait pas preparé la succession de sa petite console.En attend de trouver une idée, [[Nintendo]] lance la Game Boy Pocket le 21 juillet 1996 au Japon (quelques mois plus tard en occident).Cette console ne differe en rien de la Game Boy originale si ce n'est sa taille qui a été reduite de 30 pour cent et son autonomie de 10 heures pour 2 piles (contre 6 pour la GB originale).
+En 1995 alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtual Boy]], on apprend qu'une version relookée de la Game Boy est en préparation. En effet la firme vient non seulement de connaître l'un de ses plus gros echecs mais voit également chuter ses ventes de Game Boy. Normal apres plus de 6 ans de services... Mais [[Nintendo]],croyant beaucoup en son [[Virtual Boy]] n'avait pas preparé la succession de sa petite console. En attendant de trouver une idée, [[Nintendo]] lance la Game Boy Pocket le 21 juillet 1996 au Japon (quelques mois plus tard en occident). Cette console ne diffère en rien de la Game Boy originale si ce n'est sa taille qui a été réduite de 30 pour cent et son autonomie de 10 heures pour 2 piles (contre 6 pour la GB originale).
 
 ==== Game Boy Light ====
 [[Image:Spot01.jpg|thumb|right|150px|La console Game Boy Light]]
@@ -67,13 +67,13 @@ La Game Boy Evolution (ou Evo) est le nome de code non officiel utilisé dans la
 ==Accessoires==
 === [[Camera Game Boy]] ===
 * 128 x 112 [[pixel]]s, en 4 niveaux de gris
-* Jusqu'a 30 photos enregistrées dans la SRAM de 128 ko
+* Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
 
 == Chiffres ==
 
 100.000.000 C'est le nombre de Game boy vendues en 2000 (sont exclues les GBA, GBA SP et GB micro)
 
-400.000.000 C'est le nombre de jeux Game boy vendus en 2000 (sont également exclues GBA, etc)
+400.000.000 C'est le nombre de jeux Game boy vendus en 2000 (sont également exclues GBA, etc.)
 
 == Voir aussi ==
 
