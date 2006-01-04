@@ -38,7 +38,7 @@ Peu de personnes connaissent ce modele pourtant tres interressant.En effet cette
 === Game Boy Color ===
 :''Voir l'article principal'' [[Game Boy Color]]
 
-Sortie en novembre 1998, la console Game Boy Color (couramment référencé par GBC) propose un écran couleur pour une forme légèrement plus grande que la [[Game Boy Pocket]]. Elle double la cadence processeur et sa quantité de mémoire pour atteindre les 8 MHz avec 32 Ko. Un point intéressant de cette console réside dans sa capacité à lire les anciennes cartouches de jeu Game Boy en sélectionnant les couleurs à utiliser. C'est une fonction importante de cette console, puisqu'elle a permis de raviver la commercialisation en conservant une gamme existante de jeu, et ainsi de proposer sensiblement plus de jeux que ses concurrents directes. Technologiquement, cette console à été comparé à la [[Nintendo Entertainment System|NES]] des années 1980.
+Sortie en novembre 1998, la console Game Boy Color (couramment référencé par GBC) propose un écran couleur pour une forme légèrement plus grande que la [[Game Boy Pocket]]. Elle double la cadence processeur et sa quantité de mémoire pour atteindre les 8 MHz avec 32 Ko. Un point intéressant de cette console réside dans sa capacité à lire les anciennes cartouches de jeu Game Boy en sélectionnant les couleurs à utiliser. C'est une fonction importante de cette console, puisqu'elle a permis de raviver la commercialisation en conservant une gamme existante de jeux, et ainsi de proposer sensiblement plus de jeux que ses concurrents directs. Technologiquement, cette console a été comparée à la [[Nintendo Entertainment System|NES]] des années 1980.
 
 ===Game Boy Advance===
 :''Voir l'article principal [[Game Boy Advance]]''
