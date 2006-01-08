@@ -105,5 +105,6 @@ La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la 
 [[pt:Game Boy]]
 [[simple:Game Boy]]
 [[sv:Game Boy]]
+[[th:เกมบอย]]
 [[tr:Game Boy]]
 [[zh:Game Boy]]
