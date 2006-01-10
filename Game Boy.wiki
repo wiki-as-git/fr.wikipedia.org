@@ -1,4 +1,3 @@
-[[Catégorie:Console de jeux vidéo]]
 [[Image:Gameboy.jpg|150px|thumb|right|Le Game Boy]]
 La '''Game Boy''' est une [[consoles de jeux vidéo|console]] de [[jeux vidéo]] portable crée par [[Nintendo]] en [[1988]]. 
 
@@ -30,7 +29,7 @@ La Game Boy est la console la plus vendue au monde avec plus 118 millions d'exem
 * Connecteurs : port série pour mise en réseau des consoles (jusqu'é quatre)
 
 ===Game Boy Pocket===
-[[Image:Gameboypocket.jpg|thumb|100px|left|La console Game Boy Pocket]]
+[[Image:Game Boy Pocket.jpg|thumb|100px|left|La console Game Boy Pocket]]
 En 1995 alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtual Boy]], on apprend qu'une version relookée de la Game Boy est en préparation. En effet la firme vient non seulement de connaître l'un de ses plus gros echecs mais voit également chuter ses ventes de Game Boy. Normal apres plus de 6 ans de services... Mais [[Nintendo]],croyant beaucoup en son [[Virtual Boy]] n'avait pas preparé la succession de sa petite console. En attendant de trouver une idée, [[Nintendo]] lance la Game Boy Pocket le 21 juillet 1996 au Japon (quelques mois plus tard en occident). Cette console ne diffère en rien de la Game Boy originale si ce n'est sa taille qui a été réduite de 30 pour cent et son autonomie de 10 heures pour 2 piles (contre 6 pour la GB originale).
 
 ==== Game Boy Light ====
@@ -90,6 +89,8 @@ La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la 
 * [http://www.devrs.com/gb/files/faqs.html FAQ Game Boy] (anglais)
 
 {{Bandeau jeu vidéo}}
+
+[[Catégorie:Console de jeux vidéo]]
 
 [[de:Game Boy]]
 [[en:Game Boy line]]
