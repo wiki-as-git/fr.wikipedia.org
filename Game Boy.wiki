@@ -20,7 +20,7 @@ La Game Boy est la console la plus vendue au monde avec plus 118 millions d'exem
 
 === [[Game Boy]] ===
 * Processeur principal : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
-* Mémoire principale ([[RAM]]) : 8ko
+* Mémoire principale ([[Mémoire vive|RAM]]) : 8ko
 * Ecran : [[Écran à cristaux liquides|LCD]]
 * Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'a 40 [[sprite (jeu vidéo)|sprite]]s simultanément (8x8 ou 8x16)
 ** Mémoire Vidéo : 8 Ko
