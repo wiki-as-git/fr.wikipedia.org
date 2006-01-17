@@ -64,10 +64,7 @@ Bien que souvent considérée comme une Gameboy, elle ne fait officiellement pas
 ===Game Boy Evolution===
 La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la presse pour parler de la prochaine génération de Game Boy. Depuis, Nintendo a avoué travailler sur cette console portable sans donner plus de détails.
 
-==Accessoires==
-=== [[Camera Game Boy]] ===
-* 128 x 112 [[pixel]]s, en 4 niveaux de gris
-* Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
+C'est le Nintendo DS SP , qu'on appel ça.
 
 == Chiffres ==
 
