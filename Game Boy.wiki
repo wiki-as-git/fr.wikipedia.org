@@ -61,6 +61,9 @@ La console Game Boy Micro est une nouvelle version du [[Game Boy Advance]]. Elle
 
 Bien que souvent considérée comme une Gameboy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Gameboy Advance mais comme le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néamoins les [[cartouches de jeu]] provenant uniquement de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas acceptés.
 
+===Nintendo DS Lite===
+La DS Lite est la version relookée de la [[Nintendo DS]]. Ses lignes ont étés redéssinées pour mieu coller au style de la [[Nintendo Revolution]]. Son poid ainsi que sa taille ont également été réduit et il sera possible de régler la luminosité de l'écran. Elle est annocée pour le 2 mars 2006 au [[Japon]].
+
 ===Game Boy Evolution===
 La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la presse pour parler de la prochaine génération de Game Boy. Depuis, Nintendo a avoué travailler sur cette console portable sans donner plus de détails.
 
