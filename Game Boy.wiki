@@ -68,9 +68,20 @@ La DS Lite est la version relookée de la [[Nintendo DS]]. Ses lignes ont étés
 La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la presse pour parler de la prochaine génération de Game Boy. Depuis, Nintendo a avoué travailler sur cette console portable sans donner plus de détails.
 
 ==Accessoires==
-=== [[Camera Game Boy]] ===
-* 128 x 112 [[pixel]]s, en 4 niveaux de gris
-* Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
+* ''[[Camera Game Boy]]'':
+128 x 112 [[pixel]]s, en 4 niveaux de gris
+Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
+
+* ''Game Boy Printer'':
+Cet accessoire permet d'imprimer les photos prises grace a la Camera Game Boy.
+
+* ''Cable Link'':
+Permet de relier 2 Game Boy entre elles pour jouer en multijoueurs ou s'échanger des données.
+
+* ''Light Max'':
+Etant donné le manque de lisibilité de l'écran, [[Nintendo]] a sortit cette loupe couplé a 2 petites ampoules qui se clipse au dessus de l'écran.
+
+A noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortit hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et meme une machine a coudre commandée via la console.
 
 == Chiffres ==
 
