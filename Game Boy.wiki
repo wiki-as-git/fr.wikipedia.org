@@ -62,7 +62,12 @@ La console Game Boy Micro est une nouvelle version du [[Game Boy Advance]]. Elle
 Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Gameboy Advance mais comme le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néamoins les [[cartouches de jeu]] provenant de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas acceptés.
 
 ===Nintendo DS Lite===
-La DS Lite est la version relookée de la [[Nintendo DS]]. Ses lignes ont étés redéssinées pour mieu coller au style de la [[Nintendo Revolution]]. Son poids ainsi que sa taille ont également été réduit et il sera possible de régler la luminosité de l'écran. Elle est annocée pour le 2 mars 2006 au [[Japon]].
+:''Voir l'article principal [[Nintendo DS Lite]]''
+Le 26 janvier 2006, Nintendo annonce une version relookée de la Nintendo DS dans un style assez proche de la Nintendo Revolution. Nommée Nintendo DS Lite, elle est prévue pour le 2 mars 2006 au Japon. Moins lourde que l'originale (218g contre 275g pour l'originale), ses dimensions ont également été réduites (133 x 74 x 22 contre 149 x 85 x 29). Il sera possible de régler la luminosité de l'écran en choisissant parmi quatre niveaux d'éclairage.
+
+Le bouton d'allumage a été déplacé sur la tranche de la console ainsi que le micro, qui se trouve désormais entre les 2 écrans. La croix directionnelle a été améliorée. Son prix est annoncé aux alentours de 16 800 Yens (118 euros).
+
+Il sera aussi possible de surfer sur internet et, seulement pour le Japon pour l'intant, de regarder la télévision grâce au tuner TV qui sera disposé dans l'encoche habituelle des jeux de Nintendo DS Lite.
 
 ===Game Boy Evolution===
 La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la presse pour parler de la prochaine génération de Game Boy. Depuis, Nintendo a avoué travailler sur cette console portable sans donner plus de détails.
