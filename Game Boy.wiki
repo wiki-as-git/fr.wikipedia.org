@@ -27,7 +27,6 @@ Le Game Boy est la console la plus vendue au monde avec plus 118 millions d'exem
 * Capacités sonores : 4 voies stéréo
 * Mémoire de masse :  cartouches de jeux de 256 Ko à 4 Mo
 * Connecteurs : port série pour mise en réseau des consoles (jusqu'é quatre)
-hummmmmmmmmmmmmmmmmm
 
 ===Game Boy Pocket===
 [[Image:Game Boy Pocket.jpg|thumb|100px|left|La console Game Boy Pocket]]
