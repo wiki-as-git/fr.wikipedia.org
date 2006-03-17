@@ -42,7 +42,7 @@ Sortie en novembre 1998, la console Game Boy Color (couramment référencée par
 :''Voir l'article principal'' [[Game Boy Color]]
 
 ===Game Boy Advance===
-En juin 2001, Nintendo sort une mise à jour de sa console portable. Le Game Boy Advance, communément appelé GBA  possède un processeur ARM 32 bit cadencé à 16.8 MHz, couplé avec un processeur Z80 permettant de supporter les cartouches de jeu des premiers Game Boy. C'est techniquement une console équivalente à la [[Super Nintendo]] reprenant la même architecture permettant notamment de porter des jeux classique comme ''[[Super Mario Bros. 2]]'' en incluant des améliorations, aux côtés de nouveaux titres comme ''[[Mario Kart Super Circuit]]'', ''[[F-Zero: Maximum Velocity]]'', et ''[[Kuru Kuru Kururin]]''.
+En juin 2001, Nintendo sort une mise à jour de sa console portable. Le Game Boy Advance, communément appelé GBA  possède un processeur ARM 32 bit cadencé à 16,8 MHz, couplé avec un processeur Z80 permettant de supporter les cartouches de jeu des premiers Game Boy. C'est techniquement une console équivalente à la [[Super Nintendo]] reprenant la même architecture permettant notamment de porter des jeux classique comme ''[[Super Mario Bros. 2]]'' en incluant des améliorations, aux côtés de nouveaux titres comme ''[[Mario Kart: Super Circuit]]'', ''[[F-Zero: Maximum Velocity]]'', et ''[[Kuru Kuru Kururin]]''.
 :''Voir l'article principal [[Game Boy Advance]]''
 
 ====Game Boy Advance SP====
