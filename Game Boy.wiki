@@ -1,4 +1,4 @@
-Une '''Game Boy''' est une [[console de jeux vidéo]] portable créée par [[Nintendo]] en [[1989 en jeu vidéo|1989]].
+Un '''Game Boy''' est une [[console de jeux vidéo]] portable créée par [[Nintendo]] en [[1989 en jeu vidéo|1989]].
 
 [[Image:Gameboy.jpg|200px|right]]
 == Historique ==
@@ -8,15 +8,15 @@ C'est [[Gunpei Yokoi]], le célèbre employé de [[Nintendo]] qui créa cette co
 * grande autonomie ;
 * un catalogue de jeux aussi riche que varié.
 
-Depuis sa sortie en [[1989 en jeu vidéo|1989]], la Game Boy a connu plusieurs successeurs, dont la [[Game Boy Color]] en [[1998 en jeu vidéo|1998]] et la [[Game Boy Advance]] en [[2001 en jeu vidéo|2001]]. Bâties sur les mêmes principes de puissance et de simplicité, ces deux consoles assurent la compatibilité avec les jeux du Game Boy original.
+Depuis sa sortie en [[1989 en jeu vidéo|1989]], le Game Boy a connu plusieurs successeurs, dont le [[Game Boy Color]] en [[1998 en jeu vidéo|1998]] et le [[Game Boy Advance]] en [[2001 en jeu vidéo|2001]]. Bâties sur les mêmes principes de puissance et de simplicité, ces deux consoles assurent la compatibilité avec les jeux du Game Boy original.
 
 [[Image:Gameboyline.jpg|thumb|center|500px|Les diverses générations de Game Boy (n'incluant pas la [[Game Boy Micro]])]]
 
 Des consoles de récupération ont notamment été recyclées pour fabriquer des [[électrocardiographie|électrocardiographe]]s à destination de [[Madagascar]] dans la lutte contre le [[paludisme]] : la cartouche de jeu avec cette nouvelle fonctionnalité engendre un coût de fabrication de seulement 30 euros. Elle est également utilisée par certaines personnes pour faire de la musique électronique.
 
-La Game Boy est la console la plus vendue au monde avec plus 118 millions d'exemplaires vendues (GBP, GBL et GBC inclus).
+Le Game Boy est la console la plus vendue au monde avec plus 118 millions d'exemplaires vendues (GBP, GBL et GBC inclus).
 
-Nintendo préconise l'usage du masculin pour désigner les consoles Game Boy, mais l'usage courant est de parler d'une Game Boy, non pas d'un Game Boy.
+Nintendo préconise l'usage du masculin pour désigner officiellement les consoles Game Boy, et c'est la terminologie employée dans toute l'encyclopédie. Toutefois il est d'usage courant de parler d''''une''' Game Boy, et non d''''un''' Game Boy.
 
 ==Différentes versions==
 
@@ -32,7 +32,7 @@ Nintendo préconise l'usage du masculin pour désigner les consoles Game Boy, ma
 
 ===Game Boy Pocket===
 [[Image:Game Boy Pocket.jpg|thumb|La console Game Boy Pocket]]
-En 1995 alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtual Boy]], on apprend qu'une version relookée du Game Boy est en préparation. En effet la firme vient non seulement de connaître l'un de ses plus gros echecs mais voit également chuter ses ventes de Game Boy. Normal après plus de 6 ans de services... Mais [[Nintendo]], croyant beaucoup en son [[Virtual Boy]] n'avait pas préparé la succession de sa petite console. En attendant de trouver une idée, [[Nintendo]] lance la Game Boy Pocket le 21 juillet 1996 au Japon (quelques mois plus tard en occident). Cette console ne diffère en rien de la Game Boy si ce n'est sa taille qui a été réduite de 30 pour cent et son autonomie de 10 heures pour 2 piles (contre 4 pour la GB originale).
+En 1995 alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtual Boy]], on apprend qu'une version relookée du Game Boy est en préparation. En effet la firme vient non seulement de connaître l'un de ses plus gros echecs mais voit également chuter ses ventes de Game Boy. Normal après plus de 6 ans de services... Mais [[Nintendo]], croyant beaucoup en son [[Virtual Boy]] n'avait pas préparé la succession de sa petite console. En attendant de trouver une idée, [[Nintendo]] lance le Game Boy Pocket le 21 juillet 1996 au Japon (quelques mois plus tard en occident). Cette console ne diffère en rien du Game Boy si ce n'est sa taille qui a été réduite de 30 pourcent et son autonomie de 10 heures pour 2 piles (contre 4 pour le GB original).
 
 ==== Game Boy Light ====
 Peu de personnes connaissent ce modèle pourtant très intéressant. En effet ce GBL n'a jamais traversé les frontières nippones. Vendu le 14 avril 1998, il apporte au GBP ce qui lui faisait le plus défaut : une bonne lisibilité. Avec un rétro-éclairage de bonne facture, il était ainsi possible de jouer dans le noir. Cette version a été rapidement éclipsée par la [[Game Boy Color]]. Non pas que ce fut un échec mais [[Nintendo]] lui même voulait contrecarrer les plans d'une concurrence de plus en plus agressive.
@@ -50,11 +50,11 @@ La version SP (pour ''Special'') du Game Boy Advance, lancée en mars 2003, prop
 :''Voir l'article principal [[Game Boy Advance SP]]''
 
 ====Game Boy Micro====
-La console Game Boy Micro est une nouvelle version du [[Game Boy Advance]]. Elle est sortie en septembre [[2005]] [[Amérique du Nord]] et au­ [[Japon]], et le 4 novembre [[2005]] en [[Europe]]. À la différence de la [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. La Game Boy Micro a un poids de 80 grammes et une taille de 10 cm de long sur 5 cm de large et moins de 2 cm d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] très appréciée au [[Japon]].
+La console Game Boy Micro est une nouvelle version du [[Game Boy Advance]]. Elle est sortie en septembre [[2005]] [[Amérique du Nord]] et au­ [[Japon]], et le 4 novembre [[2005]] en [[Europe]]. À la différence de la [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. Le Game Boy Micro a un poids de 80 grammes et une taille de 10 cm de long sur 5 cm de large et moins de 2 cm d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] très appréciée au [[Japon]].
 :''Voir l'article principal [[Game Boy Micro]]''
 
 ===Nintendo DS : l'exception===
-Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Gameboy Advance mais comme le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néamoins les [[cartouche (jeu vidéo)|cartouches de jeu]] provenant de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas acceptés.
+Bien que souvent considérée comme un Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite au Gameboy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néamoins les [[cartouche (jeu vidéo)|cartouches de jeu]] provenant de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas acceptés.
 :''Voir l'article principal [[Nintendo DS]]''
 
 ===Game Boy Evolution===
@@ -66,7 +66,7 @@ La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la 
 Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
 
 * ''Game Boy Printer'':
-Cet accessoire permet d'imprimer les photos prises grace a la Camera Game Boy.
+Cet accessoire permet d'imprimer les photos prises grace à la Camera Game Boy.
 
 * ''Cable Link'':
 Permet de relier 2 Game Boy entre eux pour jouer en multijoueurs ou s'échanger des données.
