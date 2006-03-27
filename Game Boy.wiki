@@ -56,7 +56,7 @@ La console Game Boy Micro est une nouvelle version du [[Game Boy Advance]]. Elle
 :''Voir l'article principal [[Game Boy Micro]]''
 
 ===Nintendo DS : l'exception===
-Bien que souvent considérée comme un Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite au Gameboy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néamoins les [[cartouche (jeu vidéo)|cartouches de jeu]] provenant de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas acceptés.
+Bien que souvent considérée comme un Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite au Gameboy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néamoins les [[cartouche (jeu vidéo)|cartouches de jeu]] provenant du [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas acceptés.
 :''Voir l'article principal [[Nintendo DS]]''
 
 ===Game Boy Evolution===
