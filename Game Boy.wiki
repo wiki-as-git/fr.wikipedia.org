@@ -31,7 +31,7 @@ Toutefois, il est d'un usage courant de parler d''''une''' Game Boy, et non d'''
 ** Mémoire Vidéo : 8 Ko
 * Capacités sonores : 4 voies stéréo
 * Mémoire de masse :  cartouches de jeux de 256 Ko à 4 Mo
-* Connecteurs : port série pour mise en réseau des consoles (jusqu'é quatre)
+* Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre)
 
 ===Game Boy Pocket===
 [[Image:Game Boy Pocket.jpg|thumb|La console Game Boy Pocket]]
