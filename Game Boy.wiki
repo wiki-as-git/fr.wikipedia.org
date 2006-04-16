@@ -100,6 +100,7 @@ Permet de relier 2 Game Boy entre eux pour jouer en multijoueurs ou s'échanger 
 [[Catégorie:Console de jeux vidéo]]
 
 [[de:Game Boy]]
+[[el:Game Boy]]
 [[en:Game Boy line]]
 [[es:Game Boy]]
 [[fi:Game Boy]]
