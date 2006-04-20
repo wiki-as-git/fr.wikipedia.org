@@ -91,10 +91,8 @@ Permet de relier 2 Game Boy entre eux pour jouer en multijoueurs ou s'échanger 
 * [[Game Boy Color]]
 
 ; Références
-*[http://www.nintendo-difference.com/ Toute l'actualité des consoles portables & Rétro (Nintendo-difference.com)]
 * [http://www.gameboyland.ch.vu Game Boy Land]
 * {{en}} [http://www.devrs.com/gb/files/faqs.html FAQ Game Boy]
-
 
 {{Portail jeu vidéo}}
 
