@@ -1,6 +1,19 @@
+{{console de jeu vidéo
+|nom = Game Boy
+|image = [[Image:Gameboy.jpg|250px]]
+|fabriquant = [[Nintendo]]
+|type = [[Console de jeux vidéo|Console portable]]
+|generation = [[Histoire des consoles de jeu vidéo (troisième génération)|troisième]]
+|debut = 21 avril [[1989 en jeu vidéo|1989]]<br />août 1989 [[Amérique du Nord|AN]]
+|media = [[cartouche (jeu vidéo)|cartouche]]
+|ventes = 110 millions
+|jeuphare = ''[[Tetris]]''
+|predecesseur = [[Game and Watch]]
+|successeur = [[Game Boy Color]]
+}}
+
 La '''Game Boy''' est une [[console de jeux vidéo]] portable créée par [[Nintendo]] en [[1989 en jeu vidéo|1989]].
 
-[[Image:Gameboy.jpg|200px|right]]
 == Historique ==
 C'est [[Gunpei Yokoi]], le célèbre employé de [[Nintendo]] qui créa cette console à la puissance comparable à celle de la [[Nintendo Entertainment System|NES]] (Famicom au [[Japon]]) mais avec un écran monochrome ceci afin de pouvoir vendre la console a bas prix. L'incroyable succès de cette console tient en deux jeux pourtant sortis avec presque dix ans d'écart. Le premier est le légendaire ''[[Tetris]]'', crée par le soviétique [[Alexey Pajitnov]] qui, vendu avec la console, connut là ses premières heures de gloire. Le second est ''[[Pokémon|Pocket Monster]]'', plus connu sous le nom de ''Pokémon'', qui en [[1996 en jeu vidéo|1996]] connaît un succès tellement phénomenal qu'il relance les ventes de Game Boy, propulsant du même coup la petite portable de [[Nintendo]] à la première place des consoles les plus vendues de l'histoire, avec ses 110 millions d'exemplaires vendu. Malgré une qualité graphique très moyenne, la Game Boy a su s'imposer grâce à de nombreux atouts : 
 * petite taille (il tient dans une poche) ;
@@ -75,11 +88,12 @@ Permet de relier 2 Game Boy entre eux pour jouer en multijoueurs ou s'échanger 
 À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortit hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et meme une machine a coudre commandée via la console.
 
 == Chiffres ==
-100.000.000 C'est le nombre de Game boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
+100.000.000 C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
 
-400.000.000 C'est le nombre de jeux Game boy vendus en 2000 (sont également exclus GBA, etc.)
+400.000.000 C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
 == Voir aussi ==
+{{Commons|Game Boy and variants|la Game Boy et ses variantes}}
 * [[Super Game Boy]]
 * [[Game Boy Advance]]
 * [[Game Boy Advance SP]]
