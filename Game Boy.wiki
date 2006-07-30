@@ -113,7 +113,7 @@ Permet de relier 2 Game Boy entre eux pour jouer en multijoueurs ou s'échanger 
 [[en:Game Boy line]]
 [[es:Game Boy]]
 [[fi:Game Boy]]
-[[he:Game Boy]]
+[[he:גיים בוי]]
 [[hr:Game Boy]]
 [[it:Game Boy]]
 [[ja:ゲームボーイ]]
