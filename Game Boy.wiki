@@ -47,7 +47,6 @@ En 1995 alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtua
 
 ==== Game Boy Light ====
 Peu de personnes connaissent ce modèle pourtant très intéressant. En effet ce GBL n'a jamais traversé les frontières nippones. Vendu le 14 avril 1998, il apporte au GBP ce qui lui faisait le plus défaut : une bonne lisibilité. Avec un rétro-éclairage de bonne facture, il était ainsi possible de jouer dans le noir. Cette version a été rapidement éclipsée par la [[Game Boy Color]]. Non pas que ce fut un échec mais [[Nintendo]] lui même voulait contrecarrer les plans d'une concurrence de plus en plus agressive.
-klkkl
 
 === Game Boy Color ===
 Sortie en novembre 1998, la console Game Boy Color (couramment référencée par GBC) propose un écran couleur pour une forme légèrement plus grande que le [[Game Boy Pocket]]. Elle double la cadence processeur et sa quantité de mémoire pour atteindre les 8 MHz avec 32 Ko. Un point intéressant de cette console réside dans sa capacité à lire les anciennes cartouches de jeu Game Boy en sélectionnant les couleurs à utiliser. C'est une fonction importante de cette console, puisqu'elle a permis de raviver la commercialisation en conservant une gamme existante de jeux, et ainsi de proposer sensiblement plus de jeux que ses concurrents directs. Technologiquement, cette console a été comparée à la [[Nintendo Entertainment System|NES]] des années 1980.
