@@ -88,9 +88,9 @@ Permet de relier 2 Game Boy entre eux pour jouer en multijoueurs ou s'échanger 
 À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortit hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et meme une machine a coudre commandée via la console.
 
 == Chiffres ==
-100.000.000 : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
+100 000 000 : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
 
-400.000.000 : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
+400 000 000 : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
 == Voir aussi ==
 {{Commons|Game Boy and variants|la Game Boy et ses variantes}}
