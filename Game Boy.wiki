@@ -3,12 +3,12 @@
 |image = [[Image:Gameboy.jpg|210px]]
 |fabriquant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
-|generation = [[Histoire des consoles de jeu vidéo (troisième génération)|troisième]]
-|debut = 21 avril [[1989 en jeu vidéo|1989]]<br />août 1989 [[Amérique du Nord|AN]]
-|media = [[cartouche (jeu vidéo)|cartouche]]
+|génération = [[Histoire des consoles de jeu vidéo (troisième génération)|troisième]]
+|début = 21 avril [[1989 en jeu vidéo|1989]]<br />août 1989 [[Amérique du Nord|AN]]
+|média = [[cartouche (jeu vidéo)|cartouche]]
 |ventes = 110 millions
-|jeuphare = ''[[Tetris]]''
-|predecesseur = [[Game and Watch]]
+|jeu phare = ''[[Tetris]]''
+|prédécesseur = [[Game and Watch]]
 |successeur = [[Game Boy Color]]
 }}
 
