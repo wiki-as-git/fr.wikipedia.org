@@ -92,6 +92,9 @@ Permet de relier 2 Game Boy entre eux pour jouer en multijoueurs ou s'échanger 
 
 400 000 000 : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
+== Petite polémique sur le nom ==
+Selon son constructeur, le terme de Game Boy devrait être au masculin. Cependant, l'usage courant met le nom des consoles au féminin. Wikipédia privilégiant l'usage courant, le féminin sera conservé dans cet article et lors d'évocations de cette console.
+
 == Voir aussi ==
 {{Commons|Game Boy and variants|la Game Boy et ses variantes}}
 * [[Super Game Boy]]
