@@ -84,6 +84,9 @@ Permet de relier 2 Game Boy entre elles pour jouer en multijoueurs ou s'échange
 * ''Light Max'':
 Étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sortit cette loupe couplé à 2 petites ampoules qui se clipse au dessus de l'écran.
 
+* ''Radio Game Boy"":
+Cet accessoire se branchant sur le port link de la consolle utilisait les piles de la game boy pour s'alimenter en énergie et permaitait d'écouter la radio grâce à des oreillettes fournies avec.
+
 À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortit hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine a coudre commandée via la console.
 
 == Chiffres ==
