@@ -1,6 +1,6 @@
 {{console de jeu vidéo
 |nom = Game Boy
-|image = [[Image:Gameboy.jpg|210px]]
+|image = [[Image:Gameboy.jpg|190px]]
 |fabriquant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
 |génération = [[Histoire des consoles de jeu vidéo (troisième génération)|troisième]]
