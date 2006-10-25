@@ -113,6 +113,7 @@ Selon son constructeur, le terme de Game Boy devrait être masculin. Cependant, 
 
 [[Catégorie:Console portable]]
 
+[[ca:Game Boy]]
 [[de:Game Boy]]
 [[el:Game Boy]]
 [[en:Game Boy line]]
