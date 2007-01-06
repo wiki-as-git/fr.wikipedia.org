@@ -53,15 +53,15 @@ Sortie en novembre 1998, la console Game Boy Color (couramment référencée par
 
 ===Game Boy Advance===
 En juin 2001, Nintendo sort une mise à jour de sa console portable. La Game Boy Advance, communément appelée GBA, possède un processeur ARM 32 bit cadencé à 16.8 MHz, couplé avec un processeur Z80 permettant de supporter les cartouches de jeu des premiers Game Boy. C'est techniquement une console équivalente à la [[Super Nintendo]], reprenant la même architecture permettant notamment de porter des jeux classiques comme ''[[Super Mario Bros. 2]]'' en incluant des améliorations, aux côtés de nouveaux titres comme ''[[Mario Kart: Super Circuit]]'', ''[[F-Zero: Maximum Velocity]]'' et ''[[Kuru Kuru Kururin]]''.
-:''Voir l'article principal [[Game Boy Advance]]''
+{{loupe|Game Boy Advance}}
 
 ====Game Boy Advance SP====
 La version SP (pour ''Special'') de la Game Boy Advance, lancée en mars [[2003 en jeu vidéo|2003]], propose un encombrement réduit avec notamment la possibilité de la replier en deux, un rétro éclairage et une batterie rechargeable, tout le reste demeurant identique. À la mi-septembre 2005, Nintendo sort une nouvelle version de la console Game Boy Advance SP fournissant un nouvel écran rétro éclairé amélioré. C'est la dernière Game Boy à permettre la rétro compatibilité avec les cartouches de jeux de Game Boy et Game Boy Color.
-:''Voir l'article principal [[Game Boy Advance SP]]''
+{{loupe|Game Boy Advance SP}}
 
 ====Game Boy Micro====
 La console Game Boy Micro est une nouvelle version de la [[Game Boy Advance]]. Elle est sortie en septembre [[2005]] en [[Amérique du Nord]] et au­ [[Japon]], et le 4 novembre [[2005]] en [[Europe]]. À la différence de la [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. La Game Boy Micro a un poids de 80 grammes et une taille de 10 cm de long sur 5 cm de large et moins de 2 cm d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] très appréciée au [[Japon]].
-:''Voir l'article principal [[Game Boy Micro]]''
+{{loupe|Game Boy Micro}}
 
 ===Nintendo DS : l'exception===
 Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Gameboy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néanmoins les [[cartouche (jeu vidéo)|cartouches de jeu]] provenant de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas compatibles.
