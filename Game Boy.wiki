@@ -31,10 +31,10 @@ La Game Boy est la console portable la plus vendue au monde avec plus 118 millio
 
 ==Différentes versions==
 === Game Boy ===
-* Processeur principal : [[Zilog_Z80|Zilog Z80]] cadencé à 4.194304 MHz
+* Processeur principal : [[Zilog Z80]] cadencé à 4.194304 MHz
 * Mémoire principale ([[Mémoire vive|RAM]]) : 8 ko
 * Ecran : [[Écran à cristaux liquides|LCD]]
-* Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'a 40 [[sprite (jeu vidéo)|sprites]] simultanément (8x8 ou 8x16)
+* Capacités graphiques : 160x144 en 4 nuances de gris, jusqu'à 40 [[sprite (jeu vidéo)|sprites]] simultanément (8x8 ou 8x16)
 ** Mémoire Vidéo : 8 Ko
 * Capacités sonores : 4 voies stéréo
 * Mémoire de masse : cartouches de jeux de 256 Ko à 4 Mo
@@ -76,7 +76,7 @@ La Game Boy Evolution (ou Evo) est le nom de code non officiel utilisé dans la 
 Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
 
 * ''Game Boy Printer'':
-Cet accessoire permet d'imprimer les photos prises grâce à la Camera Game Boy.
+Cet accessoire permet d'imprimer les photos prises grâce à la Caméra Game Boy.
 
 * ''Cable Link'':
 Permet de relier 2 Game Boy entre elles pour jouer en multijoueurs ou s'échanger des données.
@@ -112,7 +112,6 @@ Selon son constructeur, le terme de Game Boy devrait être masculin. Cependant, 
 === Liens externes ===
 * {{en}} {{dmoz|Game Boy|http://dmoz.org/Games/Video_Games/Console_Platforms/Nintendo/Game_Boy/}}
 * {{en}} [http://www.devrs.com/gb/files/faqs.html FAQ Game Boy]
-
 
 {{Consoles Nintendo}}{{Portail jeu vidéo}}
 
