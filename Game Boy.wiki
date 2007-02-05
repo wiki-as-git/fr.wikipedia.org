@@ -7,7 +7,7 @@
 |début = 21 avril [[1989 en jeu vidéo|1989]]<br />août 1989 [[Amérique du Nord|AN]]
 |média = [[cartouche (jeu vidéo)|cartouche]]
 |ventes = 118 millions
-|jeu phare = ''[[Tetris]]''
+|jeu phare = ''[[Tetris]]'''
 |prédécesseur = [[Game and Watch]]
 |successeur = [[Game Boy Color]]
 }}
