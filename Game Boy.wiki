@@ -48,12 +48,12 @@ En 1995, alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtu
 Peu de personnes connaissent ce modèle. En effet, cette GBL n'a jamais traversé les frontières nippones. Vendue le [[14 avril]] [[1998 en jeu vidéo|1998]], elle apporte à la GBP ce qui lui faisait le plus défaut : une bonne lisibilité. Avec un rétro-éclairage de bonne facture, il était ainsi possible de jouer dans le noir. Cette version a été rapidement éclipsée par la [[Game Boy Color]]. Non pas que ce fut un échec mais [[Nintendo]] lui-même voulait contrecarrer les plans d'une concurrence de plus en plus agressive.
 
 === Game Boy Color ===
-Sortie en novembre 1998, la console Game Boy Color (couramment référencée par GBC) propose un écran couleur pour une forme légèrement plus grande que la [[Game Boy Pocket]]. Elle double la cadence du processeur et sa quantité de mémoire pour atteindre les 8 MHz avec 32 Ko. Un point intéressant de cette console réside dans sa capacité à lire les anciennes cartouches de jeu Game Boy en sélectionnant les couleurs à utiliser. C'est une fonction importante de cette console, puisqu'elle a permis de raviver la commercialisation en conservant une gamme existante de jeux, et ainsi de proposer sensiblement plus de jeux que ses concurrents directs. Technologiquement, cette console a été comparée à la [[Nintendo Entertainment System|NES]] des [[années 1980]].
 {{Article détaillé|Game Boy Color}}
+Sortie en novembre 1998, la console Game Boy Color (couramment référencée par GBC) propose un écran couleur pour une forme légèrement plus grande que la [[Game Boy Pocket]]. Elle double la cadence du processeur et sa quantité de mémoire pour atteindre les 8 MHz avec 32 Ko. Un point intéressant de cette console réside dans sa capacité à lire les anciennes cartouches de jeu Game Boy en sélectionnant les couleurs à utiliser. C'est une fonction importante de cette console, puisqu'elle a permis de raviver la commercialisation en conservant une gamme existante de jeux, et ainsi de proposer sensiblement plus de jeux que ses concurrents directs. Technologiquement, cette console a été comparée à la [[Nintendo Entertainment System|NES]] des [[années 1980]].
 
 ===Game Boy Advance===
-En juin 2001, Nintendo sort une mise à jour de sa console portable. La Game Boy Advance, communément appelée GBA, possède un processeur ARM 32 bit cadencé à 16.8 MHz, couplé avec un processeur Z80 permettant de supporter les cartouches de jeu des premiers Game Boy. C'est techniquement une console équivalente à la [[Super Nintendo]], reprenant la même architecture permettant notamment de porter des jeux classiques comme ''[[Super Mario Bros. 2]]'' en incluant des améliorations, aux côtés de nouveaux titres comme ''[[Mario Kart: Super Circuit]]'', ''[[F-Zero: Maximum Velocity]]'' et ''[[Kuru Kuru Kururin]]''.
 {{Article détaillé|Game Boy Advance}}
+En juin 2001, Nintendo sort une mise à jour de sa console portable. La Game Boy Advance, communément appelée GBA, possède un processeur ARM 32 bit cadencé à 16.8 MHz, couplé avec un processeur Z80 permettant de supporter les cartouches de jeu des premiers Game Boy. C'est techniquement une console équivalente à la [[Super Nintendo]], reprenant la même architecture permettant notamment de porter des jeux classiques comme ''[[Super Mario Bros. 2]]'' en incluant des améliorations, aux côtés de nouveaux titres comme ''[[Mario Kart: Super Circuit]]'', ''[[F-Zero: Maximum Velocity]]'' et ''[[Kuru Kuru Kururin]]''.
 
 ====Game Boy Advance SP====
 La version SP (pour ''Special'') de la Game Boy Advance, lancée en mars [[2003 en jeu vidéo|2003]], propose un encombrement réduit avec notamment la possibilité de la replier en deux, un rétro éclairage et une batterie rechargeable, tout le reste demeurant identique. À la mi-septembre 2005, Nintendo sort une nouvelle version de la console Game Boy Advance SP fournissant un nouvel écran rétro éclairé amélioré. C'est la dernière Game Boy à permettre la rétro compatibilité avec les cartouches de jeux de Game Boy et Game Boy Color.
@@ -110,7 +110,7 @@ Selon son constructeur, le terme de Game Boy devrait être masculin. Cependant, 
 * [[Game Boy Color]]
 
 === Liens externes ===
-* {{en}} {{dmoz|Game Boy|http://dmoz.org/Games/Video_Games/Console_Platforms/Nintendo/Game_Boy/}}
+* {{fr}} [http://www.pockett.net News, tests et dossiers sur la Game Boy, en français]
 * {{en}} [http://www.devrs.com/gb/files/faqs.html FAQ Game Boy]
 
 {{Consoles Nintendo}}{{Portail jeu vidéo}}
