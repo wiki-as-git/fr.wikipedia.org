@@ -113,6 +113,8 @@ Selon son constructeur, le terme de Game Boy devrait être masculin. Cependant, 
 === Liens externes ===
 * {{fr}} [http://www.pockett.net News, tests et dossiers sur la Game Boy, en français]
 * {{en}} [http://www.devrs.com/gb/files/faqs.html FAQ Game Boy]
+* {{en}} [http://www.ichfilme.de/Gamesounds/Nintendo/game%20Boy/Gameboy.htm Game Boy Midi Archive ]
+          
 
 {{Consoles Nintendo}}{{Portail jeu vidéo}}
 
