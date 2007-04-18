@@ -83,7 +83,7 @@ Cet accessoire permet d'imprimer les photos prises grâce à la Caméra Game Boy
 Permet de relier 2 Game Boy entre elles pour jouer en multijoueur ou s'échanger des données.
 
 * ''Light Max'':
-Étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sortit cette loupe couplé à 2 petites ampoules qui se clipse au dessus de l'écran.
+Étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sorti cette loupe couplée à 2 petites ampoules qui se clipse au dessus de l'écran.
 
 * ''Radio Game Boy"":
 Cet accessoire se branchant sur le port link de la console utilisait les piles de la Game Boy pour s'alimenter en énergie et permettait d'écouter la radio grâce à des oreillettes fournies avec.
