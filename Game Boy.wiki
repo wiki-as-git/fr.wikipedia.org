@@ -8,7 +8,7 @@
 |média = [[cartouche (jeu vidéo)|cartouche]]
 |ventes = 118 millions
 |jeu phare = ''[[Tetris]]''
-|prédécesseur = [[Game and Watch]]
+|prédécesseur = [[Game & Watch]]
 |successeur = [[Game Boy Pocket]]
 }}
 
