@@ -9,7 +9,7 @@
 |ventes = 118 millions
 |jeu phare = ''[[Tetris]]''
 |prédécesseur = [[Game & Watch]]
-|successeur = [[Game Boy Pocket]]
+|successeur = [[Game Boy Advance]]
 }}
 
 [[Image:Tetris Game Boy.jpg|thumb]]
