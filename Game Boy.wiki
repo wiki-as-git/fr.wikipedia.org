@@ -1,7 +1,7 @@
-{{console de jeu vidéo
+{{Infobox Console de jeu vidéo
 |nom = Game Boy
 |image = [[Image:Gameboy.jpg|190px]]
-|fabriquant = [[Nintendo]]
+|fabricant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
 |génération = [[Histoire des consoles de jeu vidéo (troisième génération)|troisième]]
 |début = 21 avril [[1989 en jeu vidéo|1989]]<br />août 1989 [[Amérique du Nord|AN]]
