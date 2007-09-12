@@ -1,11 +1,11 @@
-{{Infobox Console de jeu vidéo
+{{Infobox Console de jeux vidéo
 |nom = Game Boy
 |image = [[Image:Gameboy.jpg|190px]]
 |fabricant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
-|génération = [[Histoire des consoles de jeu vidéo (troisième génération)|troisième]]
+|génération = [[Histoire des consoles de jeux vidéo (troisième génération)|Troisième]]
 |début = 21 avril [[1989 en jeu vidéo|1989]]<br />août 1989 [[Amérique du Nord|AN]]
-|média = [[cartouche (jeu vidéo)|cartouche]]
+|média = [[cartouche (jeu vidéo)|Cartouche]]
 |ventes = 118 millions
 |jeu phare = ''[[Tetris]]''
 |prédécesseur = [[Game & Watch]]
@@ -114,7 +114,9 @@ Officiellement, selon les créateurs, le terme de Game Boy devrait être masculi
 * {{en}} [http://videospielmusik.de/Nintendo/game%20Boy/Gameboy.htm Game Boy Midi Archive ]
           
 
-{{Consoles Nintendo}}{{Portail jeu vidéo}}
+{{Consoles Nintendo}}
+
+{{Portail jeu vidéo}}
 
 [[Catégorie:Console portable]]
 
