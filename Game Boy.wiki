@@ -68,6 +68,7 @@ La console Game Boy Micro est une nouvelle version de la [[Game Boy Advance]]. E
 {{Article détaillé|Nintendo DS}}
 Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Gameboy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néanmoins les [[cartouche (jeu vidéo)|cartouches de jeu]] provenant de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas compatibles. 
 
+===Nintendo DS Lite===
 À noter aussi que la DS Lite fut sortie quelque peu après la Nintendo DS. Cette console a une forme plus carrée, n'inclut pas de dragonne, contient un stylet différent et un chargeur non compatible avec la DS de base. Elle possède aussi 4 niveaux d'éclairage, contrairement à la DS normale qui n'en a que 2. Plus petite la DS lite peut tenir plus facilement dans une poche et est très design.
 
 ==Accessoires==
