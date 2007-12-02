@@ -81,7 +81,7 @@ Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
 Cet accessoire permet d'imprimer les photos prises grâce à la Caméra Game Boy.
 
 * ''Cable Link'':
-Permet de relier 2 Game Boy entre elles pour jouer en multijoueur ou s'échanger des données.
+Permet de relier 2 Game Boy (voir 4 avec la Game Boy Advance) entre elles pour jouer en multijoueur ou s'échanger des données.
 
 * ''Light Max'':
 Étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sorti cette loupe couplée à 2 petites ampoules qui se clipse au dessus de l'écran.
