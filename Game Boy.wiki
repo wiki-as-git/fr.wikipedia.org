@@ -97,7 +97,7 @@ Cet accessoire se branchant sur le port link de la console utilisait les piles d
 400 000 000 : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
 == Indétermination du genre ==
-Officiellement, selon les créateurs, le terme de Game Boy devrait être masculin. Cependant, l'usage courant met majoritairement le nom des consoles au féminin. Wikipédia privilégiant l'usage courant, le féminin sera conservé dans cet article et lors d'évocations de cette console.
+Officiellement, selon les créateurs, le terme de Game Boy devrait être masculin. Cependant, l'usage courant met majoritairement le nom des consoles au féminin. Wikipédia privilégiant l'usage courant, le féminin a été privilégié dans cet article et lors d'évocations de cette console.
 
 == Voir aussi ==
 {{Commons|Game Boy and variants|la Game Boy et ses variantes}}
