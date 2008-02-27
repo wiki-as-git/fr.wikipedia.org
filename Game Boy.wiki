@@ -136,6 +136,7 @@ Officiellement, selon les créateurs, le terme de Game Boy devrait être masculi
 [[fi:Game Boy]]
 [[he:גיים בוי]]
 [[hr:Game Boy]]
+[[id:Game Boy]]
 [[is:Game Boy]]
 [[it:Game Boy]]
 [[ja:ゲームボーイ]]
