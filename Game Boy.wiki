@@ -42,7 +42,7 @@ La Game Boy est la console portable la plus vendue au monde avec plus 118 millio
 * Mémoire de masse : cartouches de jeux de 256 Ko à 4 Mo
 * Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre)
 
-===Game Boy Pocket===
+====Game Boy Pocket====
 [[Image:Game Boy Pocket.jpg|thumb|La console Game Boy Pocket]]
 En 1995, alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtual Boy]], on apprend qu'une version relookée de la Game Boy est en préparation. En effet, la firme vient non seulement de connaître l'un de ses plus gros échecs mais voit également chuter ses ventes de Game Boy. Mais Nintendo, croyant beaucoup en son Virtual Boy, n'avait pas préparé la succession de sa petite console. En attendant de trouver une idée, Nintendo lance la Game Boy Pocket le [[21 juillet]] [[1996 en jeu vidéo|1996]] au [[Japon]] (quelques mois plus tard en occident). Cette console diffère très peu de la Game Boy si ce n'est sa taille qui a été réduite de 30 %, l'écran a été très légèrement agrandi en perdant son aspect verdâtre et son autonomie est passée à 10 heures pour 2 piles (contre 4 pour la GB originale).
 
@@ -69,7 +69,7 @@ La console Game Boy Micro est une nouvelle version de la [[Game Boy Advance]]. E
 {{Article détaillé|Nintendo DS}}
 Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Gameboy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Gameboy et les consoles de salon. Elle accepte néanmoins les [[cartouche (jeu vidéo)|cartouches de jeu]] provenant de la [[Gameboy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Gameboy ou Gameboy Color ne sont pas compatibles. 
 
-===Nintendo DS Lite===
+====Nintendo DS Lite====
 {{Article détaillé|Nintendo DS Lite}}
 À noter aussi que la DS Lite fut sortie quelque peu après la Nintendo DS. Cette console a une forme plus carrée, n'inclut pas de dragonne, contient un stylet différent et un chargeur non compatible avec la DS de base. Elle possède aussi 4 niveaux d'éclairage, contrairement à la DS normale qui n'en a que 2. Plus petite la DS lite peut tenir plus facilement dans une poche et est très design.
 
