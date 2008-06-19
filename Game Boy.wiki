@@ -90,7 +90,7 @@ Permet de relier 2 Game Boy (voir 4 avec la Game Boy Advance) entre elles pour j
 * ''Radio Game Boy"":
 Cet accessoire se branchant sur le port link de la console utilisait les piles de la Game Boy pour s'alimenter en énergie et permettait d'écouter la radio grâce à des oreillettes fournies avec.
 
-À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortit hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine a coudre commandée via la console.
+À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortis hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine à coudre commandée via la console.
 
 == Chiffres ==
 100 000 000 : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
