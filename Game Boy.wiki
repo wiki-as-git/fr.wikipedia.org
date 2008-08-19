@@ -162,3 +162,4 @@ Officiellement, selon les créateurs, le terme de Game Boy devrait être masculi
 [[th:เกมบอย]]
 [[tr:Game Boy]]
 [[zh:Game Boy]]
+[[zh-yue:Game Boy]]
