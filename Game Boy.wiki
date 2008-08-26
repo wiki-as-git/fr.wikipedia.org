@@ -91,7 +91,7 @@ Permet de relier 2 Game Boy (voir 4 avec la Game Boy Advance) entre elles pour j
 Cet accessoire se branchant sur le port link de la console utilisait les piles de la Game Boy pour s'alimenter en énergie et permettait d'écouter la radio grâce à des oreillettes fournies avec.
 
 * ''GB Memory Cartridge'':
-Cartouche vendue seulement au Japon. Identique aux cartouches classiques mais de couleur blanche au lieu de grise, elle permettait de charger des jeux sur des bornes spéciales, appellées Nintendo Power. Une même cartouche pouvait donc contenir plusieurs ROMS chargées légalement, qui pouvaient ensuite être effacées pour les remplacer par d'autres. Le même système existait pour la Super Famicom, la SF Memory Cassette.
+Cartouche vendue seulement au Japon. Identique aux cartouches classiques mais de couleur blanche au lieu de grise, elle permettait de charger des jeux sur des bornes spéciales, appelées Nintendo Power. Une même cartouche pouvait donc contenir plusieurs ROMS chargées légalement, qui pouvaient ensuite être effacées pour les remplacer par d'autres. Le même système existait pour la Super Famicom, la SF Memory Cassette.
 
 
 À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortis hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine à coudre commandée via la console.
