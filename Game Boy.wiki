@@ -33,6 +33,9 @@ Des consoles de récupération ont notamment été recyclées pour fabriquer des
 
 Le Game Boy est la console portable la plus vendue au monde avec plus 118 millions d'exemplaires vendus (GBP, GBL et GBC incluses).
 
+pile incluse important !!
+qui veu un pikatcou ?
+
 ==Différentes versions==
 === Game Boy ===
 * Processeur principal : Custom 8-bit Sharp x80 cadencé à {{unité|4.194304|MHz}}
