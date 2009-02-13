@@ -6,7 +6,7 @@
 |image = [[Image:Gameboy.jpg|190px]]
 |fabricant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
-|génération = [[Histoire des consoles de jeux vidéo (troisième génération)|Troisième]]
+|génération = [[Histoire des consoles de jeux vidéo de troisième génération|Troisième]]
 |début = [[Japon|JP]] {{date|21|avril|1989|en jeu vidéo}}<br />[[Amérique du Nord|AN]] {{date|21|juillet|1989|en jeu vidéo|1989}}<br />[[Europe|EUR]] [[1990 en jeu vidéo|1990]]
 |média = [[cartouche (jeu vidéo)|Cartouche]]
 |ventes = 118 millions
