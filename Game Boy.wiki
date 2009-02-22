@@ -1,9 +1,8 @@
-{{Unicode japonais}}
 {{Voir homonymes|GB}}
 {{Infobox Console de jeux vidéo
 |nom = Game Boy
-|logo = [[Image:Game Boy.svg|100px]]
-|image = [[Image:Gameboy.jpg|190px]]
+|logo = [[Image:Game Boy.svg|100px|Logo Game Boy]]
+|image = [[Image:Gameboy.jpg|190px|Image d'une Game Boy]]
 |fabricant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
 |génération = [[Histoire des consoles de jeux vidéo de troisième génération|Troisième]]
