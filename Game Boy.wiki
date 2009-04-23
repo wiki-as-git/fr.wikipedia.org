@@ -70,7 +70,7 @@ La Game Boy Micro est une nouvelle version de la [[Game Boy Advance]]. Elle est 
 
 ===Nintendo DS : l'exception===
 {{Article détaillé|Nintendo DS}}
-Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Game Boy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Game Boy et les consoles de salon. Elle accepte néanmoins les [[cartouche (jeu vidéo)|cartouches de jeux]] provenant de la [[Game Boy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles. 
+Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Game Boy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Game Boy et les consoles de salon. Elle accepte néanmoins les [[cartouche (jeu vidéo)|cartouches de jeux]] provenant de la [[Game Boy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles. Son chargeur est le même que celui de la Game Boy Advance SP. 
 
 ====Nintendo DS Lite====
 {{Article détaillé|Nintendo DS Lite}}
