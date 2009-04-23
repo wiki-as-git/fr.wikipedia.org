@@ -86,7 +86,7 @@ La Nintendo DSi est la console de jeu portable de Nintendo succédant à la Nint
 Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
 
 * ''Game Boy Printer'':
-Cet accessoire permet d'imprimer les photos prises grâce à la Caméra Game Boy.
+Cet accessoire permet d'imprimer les photos prises grâce à la Caméra Game Boy. Notons que cet accessoire est utilisé dans certains jeux comme Pokémon
 
 * ''Cable Link'':
 Permet de relier 2 Game Boy (voir 4 avec la Game Boy Advance) entre eux pour jouer en multijoueur ou s'échanger des données.
