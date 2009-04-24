@@ -10,7 +10,7 @@
 |début = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo|1989}}<br />{{EUR-d}}{{date|20|novembre|1990|en jeu vidéo|1990}}
 |fin = [[1998]]
 |média = [[cartouche (jeu vidéo)|Cartouche]]
-|ventes = 118 millions
+|ventes = 118 millions{{Référence nécessaire||date=avril 2009}}
 |jeu phare = ''[[Tetris]]''
 |prédécesseur = [[Game & Watch]]
 |successeur = [[Game Boy Color]]
@@ -76,37 +76,37 @@ Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pa
 {{Article détaillé|Nintendo DS Lite}}
 La DS Lite est sortie quelque temps après la Nintendo DS. Cette console a une forme plus carrée, n'inclut pas de dragonne, contient un stylet différent et un chargeur non compatible avec la DS de base. Elle possède aussi 4 niveaux d'éclairage, contrairement à la DS normale qui n'en a que 2. Plus petite la DS lite peut tenir plus facilement dans une poche et est très design.
 
-===Nintendo DSi===
+====Nintendo DSi====
 {{Article détaillé|Nintendo DSi}}
 La Nintendo DSi est la console de jeu portable de Nintendo succédant à la Nintendo DS lite , sortie le 1er novembre 2008 au Japon, en Amérique du Nord le 5 avril 2009 et en Europe le 3 avril 2009. Elle dispose de 2 caméra , un lecteur de carte SD , un navigateur Opera intégré et un lecteur audio supportant uniquement le format AAC. La suppression du lecteur de cartouches Game Boy Advance (permettant à Nintendo d'affiner leur console) n'a pas été très apprécié car cela enlève la possibilité d'utiliser des accessoires importants pour certains jeux (Guitar Hero : On Tour notamment) et de jouer aux jeux Game Boy Advance.
 
 ==Accessoires==
-* ''[[Camera Game Boy]]'':
+* ''[[Camera Game Boy]]'' :
 128 x 112 [[pixel]]s, en 4 niveaux de gris
-Jusqu'à 30 photos enregistrées dans la SRAM de 128 Ko
+Jusqu'à 30 photos enregistrées dans la SRAM de 128 ko
 
-* ''Game Boy Printer'':
-Cet accessoire permet d'imprimer les photos prises grâce à la Caméra Game Boy. Notons que cet accessoire est utilisé dans certains jeux comme Pokémon
+* ''Game Boy Printer'' :
+Cet accessoire permet d'imprimer les photos prises grâce à la Caméra Game Boy. Notons que cet accessoire est utilisé dans certains jeux comme Pokémon.
 
-* ''Cable Link'':
+* ''Cable Link'' :
 Permet de relier 2 Game Boy (voir 4 avec la Game Boy Advance) entre eux pour jouer en multijoueur ou s'échanger des données.
 
-* ''Light Max'':
+* ''Light Max'' :
 Étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sorti cette loupe couplée à 2 petites ampoules qui se clipse au-dessus de l'écran.
 
 * ''Radio Game Boy"":
 Cet accessoire se branchant sur le port link de la console utilisait les piles de la Game Boy pour s'alimenter en énergie et permettait d'écouter la radio grâce à des oreillettes fournies avec.
 
-* ''GB Memory Cartridge'':
+* ''GB Memory Cartridge'' :
 Cartouche vendue seulement au Japon. Identique aux cartouches classiques mais de couleur blanche au lieu de grise, elle permettait de charger des jeux sur des bornes spéciales, appelées Nintendo Power. Une même cartouche pouvait donc contenir plusieurs ROMS chargées légalement, qui pouvaient ensuite être effacées pour les remplacer par d'autres. Le même système existait pour la Super Famicom, la SF Memory Cassette.
 
 
 À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortis hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine à coudre commandée via la console.
 
 == Chiffres ==
-100 000 000 : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
+100.000.000 : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
 
-400 000 000 : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
+400.000.000 : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
 == Indétermination du genre ==
 Officiellement, selon les créateurs, le terme de Game Boy devrait être masculin. Cependant, l'usage courant met majoritairement le nom des consoles au féminin.
@@ -114,7 +114,7 @@ Officiellement, selon les créateurs, le terme de Game Boy devrait être masculi
 == Voir aussi ==
 {{Commons|Game Boy and variants|La Game Boy et ses variantes}}
 === Notes et références ===
-<references />
+{{Références}}
 
 === Liens internes ===
 * [[Liste de jeux Game Boy]]
