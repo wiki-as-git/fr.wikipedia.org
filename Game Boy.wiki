@@ -1,5 +1,6 @@
 {{Confusion|Game Boy Color|Game Boy Advance|Game Boy Advance SP|Game Boy Micro}}
 {{Voir homonymes|GB}}
+{{à sourcer|date=avril 2009}}
 {{Infobox Console de jeux vidéo
 |nom = Game Boy
 |logo = [[Image:Game Boy.svg|100px|Logo Game Boy]]
@@ -7,10 +8,10 @@
 |fabricant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
 |génération = [[Histoire des consoles de jeux vidéo de troisième génération|Troisième]]
-|début = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo|1989}}<br />{{EUR-d}} {{date|20|novembre|1990|en jeu vidéo|1990}}
+|début = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo}}<br />{{EUR-d}} {{date|20|novembre|1990|en jeu vidéo}}
 |fin = [[1998]]
-|média = [[cartouche (jeu vidéo)|Cartouche]]
-|ventes = 118 millions 
+|média = [[Cartouche de jeu vidéo|Cartouche]]
+|ventes = 118 millions
 |jeu phare = ''[[Tetris]]''
 |prédécesseur = [[Game & Watch]]
 |successeur = [[Game Boy Color]]
@@ -19,7 +20,8 @@
 La {{japonais|'''Game Boy'''|ゲームボーイ|Gēmu Bōi}} est une [[console de jeux vidéo]] portable créée par [[Nintendo]] en [[1989 en jeu vidéo|1989]].
 
 == Historique ==
-C'est [[Gunpei Yokoi]], le célèbre employé de [[Nintendo]], qui créa cette console à la puissance comparable à celle de la [[Nintendo Entertainment System|NES]] (Famicom au [[Japon]]) mais avec un écran [[Noir et blanc|monochrome]], ceci afin de pouvoir vendre la console à bas prix. L'incroyable succès de cette console tient en deux jeux pourtant sortis avec presque dix ans d'écart. Le premier est le légendaire ''[[Tetris]]'', créé par le [[Union des républiques socialistes soviétiques|soviétique]] [[Alexey Pajitnov]] qui, vendu avec la console, connut là ses premières heures de gloire. Le second est ''[[Pokémon]]'', qui en [[1996 en jeu vidéo|1996]] connait un succès tellement phénoménal qu'il relance les ventes de Game Boy, propulsant du même coup la petite portable de [[Nintendo]] à la seconde place des consoles les plus vendues de l'histoire, avec ses 118 millions d'exemplaires vendus, derrière la PS2 de Sony. 
+C'est [[Gunpei Yokoi]], le célèbre employé de [[Nintendo]], qui créa cette console à la puissance comparable à celle de la [[Nintendo Entertainment System|NES]] (Famicom au [[Japon]]) mais avec un écran [[Noir et blanc|monochrome]], ceci afin de pouvoir vendre la console à bas prix. L'incroyable succès de cette console tient en deux jeux pourtant sortis avec presque dix ans d'écart. Le premier est le légendaire ''[[Tetris]]'', créé par le [[Union des républiques socialistes soviétiques|soviétique]] [[Alexey Pajitnov]] qui, vendu avec la console, connut là ses premières heures de gloire. Le second est ''[[Pokémon]]''{{qui}}, qui en [[1996 en jeu vidéo|1996]] connait un succès tellement phénoménal qu'il relance les ventes de Game Boy, propulsant du même coup la petite portable de [[Nintendo]] à la seconde place des consoles les plus vendues de l'histoire, avec ses 118 millions d'exemplaires vendus, derrière la [[PlayStation 2]] de [[Sony]]{{ref nec}}. 
+
 Malgré une qualité graphique très moyenne, la Game Boy a su s'imposer grâce à de nombreux atouts : 
 * petite taille (elle tient dans une poche) ;
 * prix réduit ;
@@ -30,9 +32,9 @@ Depuis sa sortie en [[1989 en jeu vidéo|1989]], la Game Boy a connu plusieurs s
 
 [[Image:Gameboyline2.png|thumb|center|500px|Les diverses générations de Game Boy]]
 
-Des consoles de récupération ont notamment été recyclées pour fabriquer des [[électrocardiographie|électrocardiographe]]s à destination de [[Madagascar]] dans la lutte contre le [[paludisme]] : la cartouche de jeu avec cette nouvelle fonctionnalité engendre un coût de fabrication de seulement 30 euros. Elle est également utilisée par certaines personnes pour faire de la musique électronique ou encore comme interface pour certaines machines à coudre.
+Des consoles de récupération ont notamment été recyclées pour fabriquer des [[électrocardiographie|électrocardiographe]]s à destination de [[Madagascar]] dans la lutte contre le [[paludisme]] : la cartouche de jeu avec cette nouvelle fonctionnalité engendre un coût de fabrication de seulement 30 euros. Elle est également utilisée par certaines personnes pour faire de la musique électronique ou encore comme interface pour certaines machines à coudre{{ref nec}}.
 
-La Game Boy est la console portable la plus vendue au monde avec plus 118 millions d'exemplaires vendus (GBP, GBL et GBC incluses).
+La Game Boy est la console portable la plus vendue au monde avec plus 118 millions d'exemplaires vendus (GBP, GBL et GBC incluses){{ref nec}}.
 
 ==Différentes versions==
 === Game Boy ===
@@ -70,7 +72,7 @@ La Game Boy Micro est une nouvelle version de la [[Game Boy Advance]]. Elle est 
 
 ===Nintendo DS : l'exception===
 {{Article détaillé|Nintendo DS}}
-Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Game Boy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Game Boy et les consoles de salon. Elle accepte néanmoins les [[cartouche (jeu vidéo)|cartouches de jeux]] provenant de la [[Game Boy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles. Son chargeur est le même que celui de la Game Boy Advance SP. 
+Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Game Boy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Game Boy et les consoles de salon. Elle accepte néanmoins les [[cartouche de jeu vidéo|cartouches de jeux]] provenant de la [[Game Boy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles. Son chargeur est le même que celui de la Game Boy Advance SP. 
 
 ====Nintendo DS Lite====
 {{Article détaillé|Nintendo DS Lite}}
@@ -94,27 +96,28 @@ Permet de relier 2 Game Boy (voir 4 avec la Game Boy Advance) entre eux pour jou
 * ''Light Max'' :
 Étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sorti cette loupe couplée à 2 petites ampoules qui se clipse au-dessus de l'écran.
 
-* ''Radio Game Boy"":
+* ''Radio Game Boy'' :
 Cet accessoire se branchant sur le port link de la console utilisait les piles de la Game Boy pour s'alimenter en énergie et permettait d'écouter la radio grâce à des oreillettes fournies avec.
 
 * ''GB Memory Cartridge'' :
 Cartouche vendue seulement au Japon. Identique aux cartouches classiques mais de couleur blanche au lieu de grise, elle permettait de charger des jeux sur des bornes spéciales, appelées Nintendo Power. Une même cartouche pouvait donc contenir plusieurs ROMS chargées légalement, qui pouvaient ensuite être effacées pour les remplacer par d'autres. Le même système existait pour la Super Famicom, la SF Memory Cassette.
 
 
-À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortis hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine à coudre commandée via la console.
+À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortis hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine à coudre commandée via la console {{ref nec}}.
 
 == Chiffres ==
-100.000.000 : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
+100 000 000{{ref nec}} : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
 
-400.000.000 : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
+400 000 000{{ref nec}} : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
 == Indétermination du genre ==
 Officiellement, selon les créateurs, le terme de Game Boy devrait être masculin. Cependant, l'usage courant met majoritairement le nom des consoles au féminin.
 
+== Notes et références ==
+{{Références}}
+
 == Voir aussi ==
 {{Commons|Game Boy and variants|La Game Boy et ses variantes}}
-=== Notes et références ===
-{{Références}}
 
 === Liens internes ===
 * [[Liste de jeux Game Boy]]
@@ -124,13 +127,13 @@ Officiellement, selon les créateurs, le terme de Game Boy devrait être masculi
 * [[Game Boy Color]]
 
 === Liens externes ===
+{{Trop de liens}}
 * {{fr}} [http://www.pockett.net News, tests et dossiers sur la Game Boy, en français]
 * {{fr}} [http://www.boumpower.ch/gb Cartouche programmable pour Game Boy]
 * {{en}} [http://www.devrs.com/gb/files/faqs.html FAQ Game Boy]
-* {{en}} [http://videospielmusik.de/Nintendo/game%20Boy/Gameboy.htm Game Boy Midi Archive ]
-* {{de}} [http://www.gameboyland.de Game Boy Land ]
+* {{en}} [http://videospielmusik.de/Nintendo/game%20Boy/Gameboy.htm Game Boy Midi Archive]
+* {{de}} [http://www.gameboyland.de Game Boy Land]
 * {{fr}} [http://www.gameblog.fr/news_8943_game-boy-les-publicites-d-il-y-a-20-ans Publicités de l'époque]
-          
 
 {{Consoles Nintendo}}
 
