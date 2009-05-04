@@ -106,7 +106,7 @@ Cartouche vendue seulement au Japon. Identique aux cartouches classiques mais de
 À noter qu'il existe aussi de nombreux accessoires étranges (pour la plupart jamais sortis hors du [[Japon]]) tel qu'un sonar, un organiseur, un tuner TV et même une machine à coudre commandée via la console {{ref nec}}.
 
 == Chiffres ==
-100 000 000{{ref nec}} : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GB micro)
+100 000 000{{ref nec}} : C'est le nombre de Game Boy vendues en 2000 (sont exclus les GBA, GBA SP et GBM)
 
 400 000 000{{ref nec}} : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
