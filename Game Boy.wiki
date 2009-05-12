@@ -10,7 +10,7 @@
 |génération = [[Histoire des consoles de jeux vidéo de troisième génération|Troisième]]
 |début = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo}}<br />{{EUR-d}} {{date|20|novembre|1990|en jeu vidéo}}
 |fin = [[1998]]
-|média = [[Cartouche de jeu vidéo|Cartouche]]
+|média = [[Cartouche de jeu vidéo|Cartouche GameBoy]]
 |ventes = 118 millions
 |jeu phare = ''[[Tetris]]''
 |prédécesseur = [[Game & Watch]]
