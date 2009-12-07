@@ -11,7 +11,7 @@
 |début = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo}}<br />{{EUR-d}} {{date|28|septembre|1990|en jeu vidéo}}
 |fin = [[1998]]
 |média = [[Cartouche de jeu vidéo|Cartouche Game Boy]]
-|ventes = 118 millions
+|ventes = 118.69 millions
 |jeu phare = ''[[Tetris]]''
 |prédécesseur = [[Game & Watch]]
 |successeur = [[Game Boy Color]]
