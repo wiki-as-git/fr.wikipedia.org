@@ -7,7 +7,7 @@
 |image = [[Fichier:Gameboy.jpg|190px|Image d'une Game Boy]]
 |fabricant = [[Nintendo]]
 |type = [[Console de jeux vidéo|Console portable]]
-|génération = [[Histoire des consoles de jeux vidéo de troisième génération|Troisième]]
+|génération = [[Histoire des consoles de jeux vidéo de quatrième génération|Quatrième]]
 |début = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo}}<br />{{EUR-d}} {{date|28|septembre|1990|en jeu vidéo}}
 |fin = [[1998]]
 |média = [[Cartouche de jeu vidéo|Cartouche Game Boy]]
