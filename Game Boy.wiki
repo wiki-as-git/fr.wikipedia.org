@@ -74,25 +74,11 @@ La version SP de la Game Boy Advance, lancée en {{date||mars|2003|en jeu vidéo
 {{Article détaillé|Game Boy Micro}}
 Le Game Boy Micro est une nouvelle version de la [[Game Boy Advance]]. Elle est sortie en {{date||septembre|2005|en jeu vidéo}} en [[Amérique du Nord]] et au [[Japon]], et le {{date|4|novembre|2005|en jeu vidéo}} en [[Europe]]. À la différence de la [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. La Game Boy Micro a un poids de 80 grammes et une taille de {{unité|10|cm}} de long sur {{unité|5|cm}} de large et moins de {{unité|2|cm}} d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] très appréciée au [[Japon]].
 
-=== Nintendo DS (dite Tank) : passage à la "Touch Generation" ===
+== Nintendo DS : nouvelle gamme et rétrocompatibilité ==
 {{Article détaillé|Nintendo DS}}
 Bien que souvent considérée comme une Game Boy, elle ne fait officiellement pas partie de la série et n'est pas une suite à la Game Boy Advance, mais constitue le troisième pilier des consoles de jeux Nintendo avec les Game Boy et les consoles de salon. Elle accepte néanmoins les [[cartouche de jeu vidéo|cartouches de jeux]] provenant de la [[Game Boy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles. Son chargeur est le même que celui de la Game Boy Advance SP. 
 
-==== Nintendo DS Lite ====
-{{Article détaillé|Nintendo DS Lite}}
-La DS Lite est sortie quelque temps après la Nintendo DS. Cette console a une forme plus carrée, n'inclut pas de dragonne, contient un stylet différent et un chargeur non compatible avec la DS de base. Elle possède aussi 4 niveaux d'éclairage, contrairement à la DS normale qui n'en a que 2. Plus petite la DS lite peut tenir plus facilement dans une poche et est très design. Son chargeur est différent de la Nintendo DS.
-
-==== Nintendo DSi ====
-{{Article détaillé|Nintendo DSi}}
-La DSi est sortie après la Nintendo DS lite. Cette console garde un design proche mais moins arrondit de la Lite, en proposant en supplément un accès à Internet, un appareil photo, un mini-studio d'enregistrement et la possibilité de télécharger des jeux via le DSiWare. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles. Son chargeur est différent de la Nintendo DS lite.
-
-==== Nintendo DSi XL ====
-{{Article détaillé|Nintendo DSi XL}}
-La Nintendo DSi XL est comme la Nintendo DSi sauf que la taille de la console est doublée. Ses écrans plus grands s'adressent aux personnes âgés.
-
-==== Nintendo 3DS ====
-{{Article détaillé|Nintendo 3DS}}
-La Nintendo 3DS marque un tournant de la génération DS en proposant une image en relief. Elle dispose également d'un stick analogique et de deux caméra extérieure pour prendre des images en relief. Elle est munie d'un détecteur de mouvement. Elle accepte néanmoins les [[cartouche de jeu vidéo|cartouches de jeux]] provenant de la [[Nintendo DS]].
+La [[Nintendo DS Lite]] sort quelque temps après la Nintendo DS. Cette console a une forme plus carrée, n'inclut pas de dragonne, contient un stylet différent et un chargeur non compatible avec la DS de base. Plus petite la DS lite peut tenir plus facilement dans une poche et est très design. La génération suivante, la [[Nintendo DSi]] ne propose plus de port cartouche et marque la fin de la rétrocompatibilité des jeux Game Boy Advance.
 
 == Accessoires ==
 * ''[[Camera Game Boy]]'' :
