@@ -74,7 +74,7 @@ La version SP de la Game Boy Advance, lancée en {{date||mars|2003|en jeu vidéo
 {{Article détaillé|Game Boy Micro}}
 Le Game Boy Micro est une nouvelle version de la [[Game Boy Advance]]. Elle est sortie en {{date||septembre|2005|en jeu vidéo}} en [[Amérique du Nord]] et au [[Japon]], et le {{date|4|novembre|2005|en jeu vidéo}} en [[Europe]]. À la différence de la [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. La Game Boy Micro a un poids de 80 grammes et une taille de {{unité|10|cm}} de long sur {{unité|5|cm}} de large et moins de {{unité|2|cm}} d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] {{refsou|très appréciée au [[Japon]]}}. Cette console est annoncée par Nintendo comme la dernière Game Boy.
 
-== Nintendo DS : une double Game Boy tactile ==
+== Nintendo DS : nouvelle gamme et rétrocompatibilité ==
 {{Article détaillé|Nintendo DS}}
 Bien que souvent considérée comme une Game Boy, elle fait ne fais pas partie de la série et est une suite et constitue un nouveau pilier des consoles de jeux Nintendo avec les Game Boy et les consoles de salon. Elle accepte néanmoins les [[cartouche de jeu vidéo|cartouches de jeux]] provenant de la [[Game Boy Advance]] dans un deuxième emplacement cartouche prévu à cet effet. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles. Son chargeur est le même que celui de la Game Boy Advance SP. 
 
