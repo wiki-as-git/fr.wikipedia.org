@@ -118,6 +118,7 @@ Officiellement, on peut lire dans le mode d'emploi que le terme de Game Boy devr
 
 == Voir aussi ==
 {{Commons|Game Boy and variants|La Game Boy et ses variantes}}
+[http://emuljour.net/ListeEmul.aspx?NomConsole=Gameboy/Color Emulateurs Gameboy pour PC]<br />
 
 === Liens internes ===
 * [[Liste de jeux Game Boy]]
