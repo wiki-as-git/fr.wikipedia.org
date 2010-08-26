@@ -112,9 +112,6 @@ Adaptateur permettant de jouer aux jeux Game Boy sur la télévision via la Supe
 
 400 000 000{{ref nec}} : C'est le nombre de jeux Game Boy vendus en 2000 (sont également exclus GBA, etc.)
 
-== Indétermination du genre ==
-Officiellement, on peut lire dans le mode d'emploi que le terme de Game Boy devrait être masculin. Cependant, l'usage courant met majoritairement le nom des consoles au féminin.
-
 == Notes et références ==
 {{Références}}
 
