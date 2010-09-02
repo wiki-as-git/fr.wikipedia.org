@@ -2,7 +2,7 @@
 {{Voir homonymes|GB|Game Boy (homonymie)}}
 {{à sourcer|date=avril 2009}}
 {{Infobox Console de jeux vidéo
-|nom = Game Boy
+|nom = [[Fichier:Game Boy.svg|100px|Logo Game Boy]]
 |logo = [[Fichier:Game Boy.svg|100px|Logo Game Boy]]
 |image = [[Fichier:Gameboy.jpg|190px|Image d'une Game Boy]]
 |fabricant = [[Nintendo]]
