@@ -119,7 +119,11 @@ Officiellement, on peut lire dans le mode d'emploi que le terme de Game Boy devr
 {{Références}}
 
 == Voir aussi ==
-{{Commons|Game Boy and variants|La Game Boy et ses variantes}}
+
+{{Autres projets
+ | commons     = Game Boy and variants
+ | commons titre = La Game Boy et ses variantes
+}}
 
 === Liens internes ===
 * [[Liste de jeux Game Boy]]
