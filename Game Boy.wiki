@@ -75,6 +75,7 @@ La version SP du Game Boy Advance, lancée en {{date||mars|2003|en jeu vidéo}},
 ==== Game Boy Micro ====
 {{Article détaillé|Game Boy Micro}}
 Le Game Boy Micro est une nouvelle version du [[Game Boy Advance]]. Annoncée à l'[[E3 2005]], elle est sortie en {{date||septembre|2005|en jeu vidéo}} en [[Amérique du Nord]] et au [[Japon]], et le {{date|4|novembre|2005|en jeu vidéo}} en [[Europe]]. À la différence du [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. Le Game Boy Micro a un poids de 80 grammes et une taille de {{unité|10|cm}} de long sur {{unité|5|cm}} de large et moins de {{unité|2|cm}} d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] {{refsou|très appréciée au [[Japon]]}}. Cette console est annoncée par Nintendo comme le dernier Game Boy.
+ SALUT ROMAIN
 
 == Nintendo DS : nouvelle gamme et rétrocompatibilité ==
 {{Article détaillé|Nintendo DS}}
