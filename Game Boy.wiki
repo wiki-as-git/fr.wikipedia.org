@@ -151,6 +151,7 @@ Adaptateur permettant de jouer aux jeux Game Boy sur la télévision via la Supe
 [[is:Game Boy]]
 [[it:Game Boy]]
 [[ja:ゲームボーイ]]
+[[kk:Game Boy]]
 [[ko:게임보이]]
 [[ms:Game Boy]]
 [[nl:Game Boy]]
