@@ -125,8 +125,7 @@ Adaptateur permettant de jouer aux jeux Game Boy sur la télévision via la Supe
 * [[Game Boy Advance SP]]
 * [[Game Boy Color]]
 
-{{Palette Consoles Nintendo}}
-{{Palette Consoles portables}}
+{{Palette|Consoles Nintendo|Consoles portables}}
 {{Portail|Nintendo|années 1980|années 1990}}
 
 [[Catégorie:Game Boy]]
