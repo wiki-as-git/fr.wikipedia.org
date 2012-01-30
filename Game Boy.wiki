@@ -29,7 +29,7 @@ La Game Boy sort en France en septembre 1990 dans un paquetage comprenant la con
 L'incroyable succès de cette console tient en deux jeux pourtant sortis avec presque dix ans d'écart. Le premier est le légendaire ''[[Tetris (Game Boy)|Tetris]]'', créé par le [[Union des républiques socialistes soviétiques|soviétique]] [[Alexey Pajitnov]]. Vendu avec la console, ce jeu eut de nouveau un immense succès après être devenu célèbre une dizaine d'année auparavant sur micro ordinateurs, PC et borne d'arcade. Il s'est vendu à plus de 30 millions d'exemplaires<ref>[http://vgchartz.com/worldtotals.php?name=&console=GB&publisher=&genre=&minSales=0&results=50&sort=Total|Ventes des jeux Game Boy avec en {{2e}} des ventes]</ref>. Le second est ''[[Pokémon]]'' de Satoshi Tajiri, qui en [[1996 en jeu vidéo|1996]] connait un succès tellement phénoménal qu'il relance les ventes de Game Boy avec ses 31,37 millions de jeux vendus, propulsant du même coup la petite portable de [[Nintendo]] à la troisième place des consoles les plus vendues de l'histoire, avec ses 118 millions d'exemplaires vendus, derrière la [[Nintendo DS]] et la [[PlayStation 2]] de [[Sony]]<ref>[http://vgchartz.com/hwtable.php?cons%5B%5D=PS2&reg%5B%5D=Total&start=32621&end=40160|Total des ventes de la Playstation 2]</ref>. 
 
 Malgré une qualité graphique très moyenne, le Game Boy a su s'imposer grâce à de nombreux atouts : 
-* petite taille (il tient dans une poche) ;
+* petite taille (elle tient dans une poche) ;
 * prix réduit ;
 * grande autonomie ;
 * un catalogue de jeux aussi riche que varié.
