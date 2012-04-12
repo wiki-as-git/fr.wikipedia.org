@@ -19,6 +19,38 @@
 
 La (ou le<ref>Le mode d'emploi de cet appareil indique que le terme de Game Boy est masculin. Cependant, l'usage courant chez les Français met majoritairement le nom des consoles au féminin ; pour cette raison il est souvent fait référence à « la Game Boy ». Les Québécois et les Belges disent le GameBoy.</ref>) {{japonais|'''Game Boy'''|ゲームボーイ|Gēmu Bōi}} est une [[console de jeux vidéo]] portable créée par [[Nintendo]] en [[1989 en jeu vidéo|1989]].
 
+
+== Puissance Graphique et Sonore ==
+
+Malgré que la GameBoy est doté d'un processeur graphique très puissant pour l'époque, la GameBoy (a l'oubli de son écran monochrome) est légèrement plus puissante q'une Nintendo Entertainement System (NES), cela dit, elle possède un processeur graphique proche de celui de la NES qui lui était moins récent (sortie en 1981) alors que celui de la GameBoy était en fait un Zilo-80 qui gérait la 8-Bit (sortie en 1983).
+
+Mais la comparer avec la Super Nintendo (3 fois plus puissante) serait de la folie.
+
+Pour la puissance sonore, Nintendo a mis a disposition de la GameBoy la même capacité sonore de la NES. ce qui la rapproche beaucoup de sa soeur, si l'on compare cela nous trouverons les mêmes bruitages similaires de la NES a la GameBoy, mais peu de jeu gèrent la puissance sonore de la console (ce qui n'est pas le cas de la NES), a l’exception de quelques jeux comme Zelda Link's Awakeing et Super Mario Land, la GameBoy est considéré comme une daube en matière sonore (ce qui n'a pas arrêté son succès mondial).
+
+
+== Les Baisses de Prix ==
+
+Comme toute console, la GameBoy a connu plusieurs baisses de prix, et ce, selon les coûts de fabrication, et les ventes de la console, selon également la puissance de la console (étant en 1989 très puissante, elle ne peut pas pas l'être en 1995 quand même)
+
+
+voici la liste officielle des baisses de prix que la GameBoy a connue en France durant sa carrière :
+
+Novembre 1990 : la console passe de 590 francs a 530 Francs. jusqu’à la la console n'a connu aucune baisse de prix.
+
+
+Mai 1991 : un mois avant la sortie de la GameGear en France (sa concurrente directe), la GameBoy passe de 530 Francs a 490 Francs.
+
+
+Décembre 1993 : la GameBoy passe de 490 Francs a 440 Francs, avant tout il faut savoir que depuis cette date, la production du Pack GameBoy + le jeu Tetris est fini.
+
+
+Avril 1995 : en raison d'une inquiétante baisse de ventes de la GameBoy, elle passe de 440 Francs a 380 Francs ce qui fait sa plus grosse baisse de Prix.
+
+
+Janvier 1997 : le Prix de la GameBoy chute de 380 Francs a 360 Francs, au Japon le succès est phénoménal grace a Pokémon Rouge qui relance les ventes de la GameBoy après 2 ans de ventes décevantes.
+
+
 == Historique ==
 C'est [[Gunpei Yokoi]], employé de [[Nintendo]], qui créa cette console à la puissance comparable à celle de la [[Nintendo Entertainment System|NES]] (Famicom au [[Japon]]) mais avec un écran [[Noir et blanc|monochrome]], ceci afin de pouvoir vendre la console à bas prix.
 
