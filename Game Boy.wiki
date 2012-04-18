@@ -22,7 +22,7 @@ La (ou le<ref>Le mode d'emploi de cet appareil indique que le terme de Game Boy 
 
 == Puissance Graphique et Sonore ==
 
-Malgré le fait qu'elle soit dotée d'un processeur graphique très puissant pour l'époque, la GameBoy (à l'oubli de son écran monochrome) est légèrement plus puissante q'une Nintendo Entertainement System (NES); cela dit, elle possède un processeur graphique proche de celui de la NES qui lui était moins récent (sortie en 1981) alors que celui de la GameBoy était en fait un Zilo-80 qui gérait la 8-Bit (sortie en 1983).
+Malgré le fait qu'elle soit dotée d'un processeur graphique très puissant pour l'époque, la GameBoy (à l'oubli de son écran monochrome) est légèrement plus puissante q'une Nintendo Entertainement System (NES). Cela dit, elle possède un processeur graphique proche de celui de la NES qui lui était moins récent (sortie en 1981) alors que celui de la GameBoy était en fait un Zilo-80 qui gérait la 8-Bit (sortie en 1983).
 
 Mais la comparer avec la Super Nintendo (3 fois plus puissante) serait de la folie.
 
