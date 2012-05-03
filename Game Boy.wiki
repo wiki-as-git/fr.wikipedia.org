@@ -24,7 +24,7 @@ La (ou le<ref>Le mode d'emploi de cet appareil indique que le terme de Game Boy 
 {{section à sourcer}}
 Malgré le fait qu'elle soit dotée d'un processeur graphique très puissant pour l'époque, la GameBoy (à l'oubli de son écran monochrome) est légèrement plus puissante qu'une Nintendo Entertainement System (NES). Cela dit, elle possède un processeur graphique proche de celui de la NES qui lui était moins récent (sortie en 1981) alors que celui de la GameBoy était en fait un Zilo-80 qui gérait la 8-Bit (sortie en 1983).
 
-Pour la puissance sonore, Nintendo a mis à disposition de la GameBoy la même capacité sonore de la NES. Ce qui la rapproche beaucoup de sa sœur, si l'on compare cela nous trouverons les mêmes bruitages similaires de la NES a la GameBoy, mais peu de jeu gèrent la puissance sonore de la console (ce qui n'est pas le cas de la NES), à l’exception de quelques jeux comme Zelda Link's Awakening et Super Mario Land, la GameBoy est considérée comme mauvaise au sonore (ce qui n'a pas altéré son succès mondial).
+Pour la puissance sonore, Nintendo a mis à disposition de la GameBoy la même capacité sonore de la NES. Ce qui la rapproche beaucoup de sa sœur, si l'on compare cela nous trouverons les mêmes bruitages similaires de la NES a la GameBoy, mais peu de jeu gèrent la puissance sonore de la console (ce qui n'est pas le cas de la NES), à l’exception de quelques jeux comme Zelda Link's Awakening et Super Mario Land, la GameBoy est considérée comme mauvaise au niveau sonore (ce qui n'a pas altéré son succès mondial).
 
 == Les baisses de prix ==
 {{section à sourcer}}
