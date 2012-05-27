@@ -143,6 +143,7 @@ Adaptateur permettant de jouer aux jeux Game Boy sur la télévision via la Supe
 
 === Liens internes ===
 * [[Liste de jeux Game Boy]]
+* [[Liste des jeux Game Boy multijoueurs]]
 * [[Super Game Boy]]
 * [[Game Boy Advance]]
 * [[Game Boy Advance SP]]
