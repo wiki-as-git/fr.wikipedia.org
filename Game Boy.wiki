@@ -73,7 +73,7 @@ Le Game Boy est la seconde console portable la plus vendue au monde avec plus de
 ** Mémoire Vidéo : {{unité|8|Kio}}
 * Capacités sonores : 4 voies stéréo
 * Mémoire de masse : cartouches de jeux de {{unité|256|Kio}} à {{unité|4|Mio}}
-* Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre)
+* Connecteurs : port série pour mise en réseau de deux consoles
 
 ==== Game Boy Pocket ====
 [[Fichier:Game Boy Pocket.jpg|thumb|La console Game Boy Pocket]]
