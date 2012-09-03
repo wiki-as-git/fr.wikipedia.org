@@ -17,7 +17,7 @@
 |successeur = [[Game Boy Color]]
 }}
 
-Le (contrairement à ce que disent ces gros cons de Wikipedia, le Game Boy est masculin)(ou la<ref>Le mode d'emploi de cet appareil indique que le terme de Game Boy est masculin. Cependant, l'usage courant chez les Français met majoritairement le nom des consoles au féminin ; pour cette raison il est souvent fait référence à « la Game Boy ». Les Québécois et les Belges disent le GameBoy.</ref>) {{japonais|'''Game Boy'''|ゲームボーイ|Gēmu Bōi}} est une [[console de jeux vidéo]] portable créée par [[Nintendo]] en [[1989 en jeu vidéo|1989]].
+Le (ou la<ref>Le mode d'emploi de cet appareil indique que le terme de Game Boy est masculin. Cependant, l'usage courant chez les Français met majoritairement le nom des consoles au féminin ; pour cette raison il est souvent fait référence à « la Game Boy ». Les Québécois et les Belges disent le GameBoy.</ref>) {{japonais|'''Game Boy'''|ゲームボーイ|Gēmu Bōi}} est une [[console de jeux vidéo]] portable créée par [[Nintendo]] en [[1989 en jeu vidéo|1989]].
 
 == Puissance graphique et sonore ==
 {{section à sourcer}}
