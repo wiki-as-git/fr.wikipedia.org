@@ -12,9 +12,9 @@
 |fin = [[1998]]
 |média = [[Cartouche de jeu vidéo|Cartouche Game Boy]]
 |ventes = {{Monde}} 118,69 <small>millions</small><br >
-<br />{{JPN-d}} 31 301 489<ref>http://www.vgchartz.com/weekly.php?date=38095&reg=Japan&date=38186&console=&maker=</ref><br />
-<br />{{USA-d}} 43,18 <small>millions</small><ref>http://www.vgchartz.com/analysis/platform_totals/</ref>
-<br />{{EUR-d}} 40,05 <small>millions</small><ref>http://www.vgchartz.com/analysis/platform_totals/</ref>
+{{JPN-d}} 31 301 489<ref>http://www.vgchartz.com/weekly.php?date=38095&reg=Japan&date=38186&console=&maker=</ref><br />
+{{USA-d}} 43,18 <small>millions</small><ref>http://www.vgchartz.com/analysis/platform_totals/</ref><br />
+{{EUR-d}} 40,05 <small>millions</small><ref>http://www.vgchartz.com/analysis/platform_totals/</ref><br />
 |jeu phare = ''[[Tetris (Game Boy)|Tetris]]''
 |prédécesseur = [[Game & Watch]]
 |successeur = [[Game Boy Color]]
