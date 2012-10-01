@@ -142,7 +142,7 @@ Adaptateur permettant de jouer aux jeux Game Boy sur la télévision via la Supe
  | commons titre = Game Boy et ses variantes
 }}
 
-=== Liens internes ===
+=== Articles connexes ===
 * [[Liste de jeux Game Boy]]
 * [[Liste des jeux Game Boy multijoueurs]]
 * [[Super Game Boy]]
