@@ -3,7 +3,7 @@
 {{Infobox Console de jeux vidéo
 | nom          = Game Boy
 | logo         = [[Fichier:Game Boy.svg|160px|Logo Game Boy]]
-| image        = [[Fichier:Gameboy.jpg|190px|Game Boy]]
+| image        = [[Fichier:Game-Boy-Original.jpg|190px|Game Boy]]
 | fabricant    = [[Nintendo]]
 | type         = [[Console de jeux vidéo|Console portable]]
 | génération   = [[Histoire des consoles de jeux vidéo de quatrième génération|Quatrième]]
@@ -55,7 +55,7 @@ Comme toutes consoles, la Game Boy a connue plusieurs baisses de prix, et ce, se
 * Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre)
 
 === Game Boy Pocket ===
-[[Fichier:Game Boy Pocket.jpg|thumb|upright=0.9|Game Boy Pocket.]]
+[[Fichier:Game-Boy-Pocket-Black.jpg|thumb|upright=0.9|Game Boy Pocket.]]
 
 En 1995, alors que [[Nintendo]] et [[Gunpei Yokoi]] essuient l'échec du [[Virtual Boy]], une version relookée du Game Boy est en préparation. En effet, la firme vient non seulement de connaître l'un de ses plus gros échecs mais voit également chuter ses ventes de Game Boy. Mais Nintendo, croyant beaucoup en son Virtual Boy, n'avait pas préparé la succession de sa petite console. En attendant de trouver une idée, Nintendo lance le Game Boy Pocket le {{date|21|juillet|1996|en jeu vidéo}} au [[Japon]] (quelques mois plus tard en occident). Cette console diffère très peu du Game Boy si ce n'est sa taille qui a été réduite de 30 %, l'écran a été très légèrement agrandi en perdant son aspect verdâtre et son autonomie est passée à 10 heures pour 2 piles (contre 4 pour la GB originale). Les premiers modèles de Game Boy Pocket étaient dépourvu de voyant indiquant le niveau de batterie de la console.
 
@@ -101,10 +101,6 @@ La [[Nintendo DS Lite]] est commercialisée quelque temps après la Nintendo DS.
 === Articles connexes ===
 * [[Liste de jeux Game Boy]]
 * [[Liste des jeux Game Boy multijoueurs]]
-* [[Super Game Boy]]
-* [[Game Boy Advance]]
-* [[Game Boy Advance SP]]
-* [[Game Boy Color]]
 
 == Liens externes ==
 {{Autres projets
