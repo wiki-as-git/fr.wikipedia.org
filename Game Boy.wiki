@@ -8,7 +8,7 @@
 | type         = [[Console de jeux vidéo|Console portable]]
 | génération   = [[Histoire des consoles de jeux vidéo de quatrième génération|Quatrième]]
 | début        = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo}}<br />{{GER-d}} début de l'été [[1990 en jeu vidéo|1990]]<br />{{EUR-d}} {{date|28|septembre|1990|en jeu vidéo}}
-| fin          = [[1998]]
+| fin          = [[1999]]
 | média        = [[Cartouche de jeu vidéo|Cartouche Game Boy]]
 | ventes       = {{Monde}} 118,69 <small>millions</small><br >
 {{JPN-d}} 31 301 489<ref>{{en}} {{Lien web|url=http://www.vgchartz.com/weekly.php?date=38095&reg=Japan&date=38186&console=&maker=|titre=Japan Weekly Chart|site=VGChartz|consulté le=17 octobre 2012}}</ref><br />
