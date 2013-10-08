@@ -96,6 +96,9 @@ La [[Nintendo DS Lite]] est commercialisée quelque temps après la Nintendo DS.
 == Notes et références ==
 {{Références|colonnes=2}}
 
+== Bibliographie == 
+* {{Ouvrage|titre=La Bible Game Boy|éditeur=[[Pix'n Love]]|mois=octobre|année=2013|pages totales=320}}
+
 == Annexes ==
 === Articles connexes ===
 * [[Liste de jeux Game Boy]]
