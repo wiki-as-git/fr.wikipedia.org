@@ -10,6 +10,7 @@
 | génération   = [[Consoles de jeux vidéo de quatrième génération|Quatrième]]
 | début        = {{JPN-d}} {{date|21|avril|1989|en jeu vidéo}}<br />{{USA-d}} {{date|21|juillet|1989|en jeu vidéo}}<br />{{GER-d}} début de l'été [[1990 en jeu vidéo|1990]]<br />{{EUR-d}} {{date|28|septembre|1990|en jeu vidéo}} <br />{{FRA-d}} {{date|28|septembre|1990|en jeu vidéo}}
 | fin          = {{USA-d}} [[1999 en jeu vidéo|1999]]<br />{{EUR-d}} [[2000 en jeu vidéo|2000]]<br />{{JPN-d}} [[2003 en jeu vidéo|2003]]
+| CPU          = [[Sharp]] LR35902<ref>{{lien web|langue|=jp|url=http://nintendods.exblog.jp/381307/|titre=解体新書。初代GBをバラしてみる。|périodique=nintendods.exblog.jp|en ligne le=29 septembre 2004|consulté le=2 aoüt 2014}}</ref>
 | média        = [[Cartouche de jeu vidéo|Cartouche Game Boy]]
 | ventes       = <small>(Chiffres Nintendo de fin de commercialisation)<ref name="Chiffres de vente">[http://www.nintendo.co.jp/ir/library/historical_data/pdf/consolidated_sales_e1303.pdf Consolidated Sales Transition by Region]</ref></small><br/>
 {{Date de sortie de jeu vidéo|INT=118,69 <small>millions</small>|US=44,06 <small>millions</small>}}{{DateJV|JP=32,47 <small>millions</small>|EU=42,16 <small>millions</small>}}
