@@ -77,7 +77,7 @@ La [[Game Boy Micro]] est une nouvelle version de la [[Game Boy Advance]]. Annon
 == Accessoires ==
 * ''[[Camera Game Boy]]'' : 128 x 112 [[pixel]]s, en 4 niveaux de gris : Jusqu'à 30 photos enregistrées dans la SRAM de {{unité|128|ko}}<ref>{{lien web|langue=en |url=http://web.archive.org/web/19980530121628/http://www.nintendo.com/gb/gb_camera/index.html |consulté le=30 mai 1998 |titre=Game Boy Camera |site=[[Nintendo of America]]}}</ref>
 
-* ''Game Boy Printer'' : Cet accessoire permet d'imprimer les photos prises grâce à la ''Caméra Game Boy''. À noter que cet accessoire est utilisé dans certains jeux comme ''Pokémon''.
+* ''[[Game Boy Printer]]'' : Cet accessoire permet d'imprimer les photos prises grâce à la ''Caméra Game Boy''. À noter que cet accessoire est utilisé dans certains jeux comme ''Pokémon''.
 
 * ''Cable Link'' : Permet de relier 2 Game Boy (voire 4 avec la Game Boy Advance) entre eux pour jouer en multijoueur ou s'échanger des données.
 
