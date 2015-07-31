@@ -107,7 +107,7 @@ La [[Nintendo DS Lite]] est commercialisée quelque temps après la Nintendo DS.
 
 == Liens externes ==
 {{Autres projets
-| commons     = Game Boy and variants
+| commons     = Category:Game Boy line
 | commons titre = Game Boy et ses variantes
 }}
 * {{Site officiel|http://gameboy.com/}}
