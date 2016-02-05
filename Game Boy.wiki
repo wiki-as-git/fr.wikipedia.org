@@ -46,9 +46,9 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 
 * Processeur principal : Custom 8-bit Sharp x80 cadencé à {{unité|4.194304|MHz}}<ref name=loh>{{ja}} {{Lien web|url=http://www.nintendo.co.jp/n02/dmg/hardware/light/index.html|titre=Nintendo Japan Game Boy Light official homepage|consulté le=3 novembre 2009}}</ref>
 * Mémoire principale ([[Mémoire vive|RAM]]) : {{unité|8|Ko}}<ref>{{lien web|langue=en|url=http://marc.rawer.de/Gameboy/gameboy1.gif|titre=Gameboy Internals (CPU Section)|auteur=Marc Jeff Frohwin|consulté le=3 juin 2011}}</ref>
-* Écran : [[Écran à cristaux liquides|LCD]]<ref name="Gameboy CPU Manual">{{en}} {{pdf}} {{Lien web|auteur=DP|titre=GameBoy CPU Manual|url=http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf|consulté le=3 juin 2011}}</ref>
-* Capacités graphiques : 160×144 en 4 nuances de gris, jusqu'à 40 [[sprite (jeu vidéo)|sprites]] simultanément (8×8 ou 8×16)
-* Mémoire vidéo : {{unité|8|Ko}}
+* Écran : [[Écran à cristaux liquides|LCD]] {{unité|2.6|pouces}}<ref name="Gameboy CPU Manual">{{en}} {{pdf}} {{Lien web|auteur=DP|titre=GameBoy CPU Manual|url=http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf|consulté le=3 juin 2011}}</ref>
+* Capacités graphiques : 160×144 en 4 nuances de gris, jusqu'à 40 [[sprite (jeu vidéo)|sprites]] simultanément (8×8 ou 8×16)<ref name="Gameboy CPU Manual"/>
+* Mémoire vidéo : {{unité|8|Ko}}<ref name="Gameboy CPU Manual"/>
 * Capacités sonores : 2 canaux signal carré (12.5% 25% 50% 75%) (legato/glissando), 1 canal WAV PCM, 1 canal bruit blanc. 16 vélocités par canal<ref>{{lien web|langue=en|url=http://www.8bitcollective.com/wiki/index.php?title=Game_Boy#Sound |titre=Game Boy - 8bc Chiptune Wiki|date= 5 novembre 2008|consulté le=26 mai 2011}}</ref>.
 * Mémoire de masse : cartouches de jeux de {{unité|32|Ko}} à {{unité|8|Mo}}<ref>{{lien web|langue=en|url=http://nocash.emubase.de/pandocs.htm#memorybankcontrollers|titre= Everything You Always Wanted To Know About GAMEBOY. (PanDocs)}}</ref>
 * Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre)
