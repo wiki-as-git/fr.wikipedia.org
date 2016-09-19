@@ -94,8 +94,6 @@ En {{date||juin|2001|en jeu vidéo}}, Nintendo sort une mise à jour de sa conso
 
 La [[Game Boy Advance SP|version SP de la Game Boy Advance]], lancée en {{date||mars|2003|en jeu vidéo}}, propose un encombrement réduit avec notamment la possibilité de la replier en deux, un éclairage intégré et une batterie rechargeable, tout le reste demeurant identique. C'est la dernière Game Boy à permettre la rétro compatibilité avec les cartouches de jeux Game Boy et Game Boy Color.
 
-À la mi-{{date||septembre|2005|en jeu vidéo}}, Nintendo sort une nouvelle version de la Game Boy Advance : la Game Boy Micro, fournissant un nouvel écran rétro éclairé amélioré. 
-
 La [[Game Boy Micro]] est une dernière version de la [[Game Boy Advance]]. Annoncée à l'[[E3 2005]], elle est sortie en {{date||septembre|2005|en jeu vidéo}} en [[Amérique du Nord]] et au [[Japon]], et le {{date|4|novembre|2005|en jeu vidéo}} en [[Europe]]. À la différence de la [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. La Game Boy Micro a un poids de {{unité|80|grammes}} et une taille de {{unité|10|cm}} de long sur {{unité|5|cm}} de large et moins de {{unité|2|cm}} d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] très appréciée au [[Japon]]<ref>L'Histoire de Nintendo Volume 3, page 111 (Éditions Omaké Books, 2011)</ref>. Cette console est annoncée par Nintendo comme le dernier Game Boy.
 
 === Générations suivantes ===
