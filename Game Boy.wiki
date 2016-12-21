@@ -66,7 +66,7 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 
 * [[Game Boy Printer]] : Cet accessoire permet d'imprimer les photos prises grâce à la ''Caméra Game Boy''. À noter que cet accessoire est utilisé dans certains jeux comme ''Pokémon''.
 
-* Cable Link : Permet de relier 2 Game Boy (voir 4 avec la Game Boy Advance) entre eux pour jouer en multijoueur ou s'échanger des données.
+* Cable Link : Permet de relier 2 Game Boy (voire 4 avec la Game Boy Advance) entre eux pour jouer en multijoueur ou s'échanger des données.
 
 * Light Max : Étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sorti cette loupe couplée à 2 petites ampoules qui se clipse au-dessus de l'écran.
 
