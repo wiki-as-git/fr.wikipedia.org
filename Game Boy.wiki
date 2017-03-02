@@ -14,7 +14,7 @@
 | média        = [[Cartouche de jeu vidéo|Cartouche Game Boy]]
 | ventes       = <small>(Chiffres Nintendo de fin de commercialisation)<ref name="Chiffres de vente">[http://www.nintendo.co.jp/ir/library/historical_data/pdf/consolidated_sales_e1303.pdf Consolidated Sales Transition by Region]</ref></small><br/>
 {{Date de sortie de jeu vidéo|INT|118,69 <small>millions</small>|US|44,06 <small>millions</small>|JP|32,47 <small>millions</small>|EU|42,16 <small>millions</small>}}
-| jeu phare    = ''[[Pokémon Rouge et Bleu]]''
+| jeu phare    = ''[[Tetris (Game Boy)|Tetris]]'' (35 millions)<ref>{{Lien web |url=http://www.telegraph.co.uk/technology/news/5460283/Computer-game-Tetris-celebrates-25-years.html |titre=''Computer game Tetris celebrates 25 years'' |site=[[Daily Telegraph]] |date=6 juin 2009 }}.</ref>
 | prédécesseur = [[Game and Watch]]
 | successeur   = Famille [[Game Boy Advance]]
 }}
