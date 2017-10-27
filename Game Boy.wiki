@@ -62,7 +62,7 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 *pas de rétroéclairage<ref name="obso"/>
 
 == Accessoires ==
-* [[Game Boy Camera]] : 128 x 112 [[pixel]]s, en 4 niveaux de gris : Jusqu'à 30 photos enregistrées dans la SRAM de {{unité|128|ko}}<ref>{{lien web|langue=en |url=http://web.archive.org/web/19980530121628/http://www.nintendo.com/gb/gb_camera/index.html |consulté le=30 mai 1998 |titre=Game Boy Camera |site=[[Nintendo of America]]}}</ref>
+* [[Game Boy Camera]] : 128 x 112 [[pixel]]s, en 4 niveaux de gris : Jusqu'à 30 photos enregistrées dans la SRAM de {{unité|128|ko}}<ref>{{lien web|langue=en |url=https://web.archive.org/web/19980530121628/http://www.nintendo.com/gb/gb_camera/index.html |consulté le=30 mai 1998 |titre=Game Boy Camera |site=[[Nintendo of America]]}}</ref>
 
 * [[Game Boy Printer]] : Cet accessoire permet d'imprimer les photos prises grâce à la ''Caméra Game Boy''. À noter que cet accessoire est utilisé dans certains jeux comme ''Pokémon''.
 
@@ -121,7 +121,7 @@ La [[Nintendo DS Lite]] est commercialisée quelque temps après la Nintendo DS.
 | commons titre = Game Boy et ses variantes
 }}
 * {{Site officiel|http://gameboy.com/}}
-* {{en}} [http://web.archive.org/web/20080312035507/http://register.nintendo.com/systemsclassic?type=gb Game Boy] sur Nintendo.com
+* {{en}} [https://web.archive.org/web/20080312035507/http://register.nintendo.com/systemsclassic?type=gb Game Boy] sur Nintendo.com
 * {{en}} [[wikia:nintendo:Game Boy|Game Boy]] sur Nintendopedia
 
 {{Palette|Consoles Nintendo|Consoles portables}}
