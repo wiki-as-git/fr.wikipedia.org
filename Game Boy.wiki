@@ -100,12 +100,6 @@ La [[Game Boy Advance SP|version SP de la Game Boy Advance]], lancée en {{date|
 
 La [[Game Boy Micro]] est une dernière version de la [[Game Boy Advance]]. Annoncée à l'[[E3 2005]], elle est sortie en {{date||septembre|2005|en jeu vidéo}} en [[Amérique du Nord]] et au [[Japon]], et le {{date|4|novembre|2005|en jeu vidéo}} en [[Europe]]. À la différence de la [[Game Boy Advance]], cette console portable n'est pas compatible avec les jeux Game Boy et [[Game Boy Color]]. La Game Boy Micro a un poids de {{unité|80|grammes}} et une taille de {{unité|10|cm}} de long sur {{unité|5|cm}} de large et moins de {{unité|2|cm}} d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son écran qui, en dépit d'une taille réduite, a fait l'objet de toutes les attentions et révèle une finesse et une luminosité sans précédent sur une console portable. La console joue aussi sur l'aspect [[retrogaming]] avec sa façade [[Famicom]] très appréciée au [[Japon]]<ref>L'Histoire de Nintendo Volume 3, page 111 (Éditions Omaké Books, 2011)</ref>. Cette console est annoncée par Nintendo comme le dernier Game Boy.
 
-=== Générations suivantes ===
-{{pertinence section|date=janvier 2016}}
-Bien que souvent considérée par les joueurs comme une Game Boy, la [[Nintendo DS]] n'en fait pas partie, mais en est une suite et constitue un nouveau pilier des consoles de jeux Nintendo avec les Game Boy et les consoles de salon. Elle accepte néanmoins les [[cartouche de jeu vidéo|cartouches de jeux]] provenant de la [[Game Boy Advance]] dans un second emplacement cartouche prévu à cet effet. Les jeux Game Boy ou Game Boy Color ne sont pas compatibles avec cette console. Son chargeur est le même que celui de la [[Game Boy Advance SP]].
-
-La [[Nintendo DS Lite]] est commercialisée quelque temps après la Nintendo DS. Cette console a une forme plus carrée, n'inclut pas de dragonne, contient un stylet différent et un chargeur non compatible avec la Nintendo DS de base. Plus petite, la Nintendo DS lite peut tenir plus facilement dans une poche . La génération suivante, la [[Nintendo DSi]] ne propose plus de port cartouche et marque la fin de la rétrocompatibilité des jeux Game Boy Advance. Cette [[rétrocompatibilité]] n'ayant pas été remise au goût du jour, ni avec la [[Nintendo DSi XL]], ni avec les différents modèles dérivés de la [[Nintendo 3DS]].
-
 == Notes et références ==
 {{Références|colonnes=2}}
 
