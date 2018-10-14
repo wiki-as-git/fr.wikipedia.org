@@ -8,12 +8,12 @@
 | fabricant    = [[Nintendo]]
 | type         = [[Console de jeux vidéo|Console portable]]
 | génération   = [[Consoles de jeux vidéo de quatrième génération|Quatrième]]
-| début        = {{date de sortie de jeu vidéo|JP|21 avril [[1989 en jeu vidéo|1989]]|AN|31 juillet [[1989 en jeu vidéo|1989]]|EU|28 septembre [[1990 en jeu vidéo|1990]]}}
-| fin          = {{date de sortie de jeu vidéo|AN|[[1999 en jeu vidéo|1999]]|EU|[[2000 en jeu vidéo|2000]]|JP|[[2003 en jeu vidéo|23 mars 2003]]}}
+| début        = {{Date de sortie de jeu vidéo|JP|21 avril 1989|AN|31 juillet 1989|EU|28 septembre 1990}}
+| fin          = {{Date de sortie de jeu vidéo|AN|1999|EU|2000|JP|23 mars 2003}}
 | CPU          = [[Sharp (entreprise)|Sharp]] LR35902<ref>{{lien web|langue=ja|url=http://nintendods.exblog.jp/381307/|titre=解体新書。初代GBをバラしてみる。|périodique=nintendods.exblog.jp|en ligne le=29 septembre 2004|consulté le=2 aoüt 2014}}</ref>
 | média        = [[Cartouche de jeu vidéo|Cartouche Game Boy]]
 | ventes       = <small>(Chiffres Nintendo de fin de commercialisation)<ref name="Chiffres de vente">[http://www.nintendo.co.jp/ir/library/historical_data/pdf/consolidated_sales_e1303.pdf Consolidated Sales Transition by Region]</ref></small><br/>
-{{Date de sortie de jeu vidéo|INT|{{unité|118.69|<small>millions</small>}}|US|{{unité|44.06|<small>millions</small>}}|JP|{{unité|32.47|<small>millions</small>}}|EU|{{unité|42.16|<small>millions</small>}}}}
+{{Date de sortie de jeu vidéo|INT|{{unité|118.69|<small>millions</small>}}|AN|{{unité|44.06|<small>millions</small>}}|EU|{{unité|42.16|<small>millions</small>}}|JP|{{unité|32.47|<small>millions</small>}}}}
 | jeu phare    = ''[[Tetris (Game Boy)|Tetris]]'' ({{unité|35|millions}})<ref>{{Lien web |url=https://www.telegraph.co.uk/technology/news/5460283/Computer-game-Tetris-celebrates-25-years.html |titre=''Computer game Tetris celebrates 25 years'' |site=[[Daily Telegraph]] |date=6 juin 2009 }}.</ref>
 | prédécesseur = [[Game and Watch]]
 | successeur   = [[Game Boy Color]]
