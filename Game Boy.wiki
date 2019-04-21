@@ -104,9 +104,8 @@ La [[Game Boy Micro]] est une dernière version de la [[Game Boy Advance]]. Anno
 {{Références|colonnes=2}}
 
 == Annexes ==
-=== Articles connexes ===
+=== Article connexe ===
 * [[Liste de jeux Game Boy]]
-* [[Liste de jeux en ligne massivement multijoueur]]
 
 === Bibliographie ===
 * {{Ouvrage|titre=La Bible Game Boy|éditeur=[[Éditions Pix'n Love|Éditions {{Langue|en|Pix'n Love}}]]|mois=octobre|année=2013|pages totales=320}}
