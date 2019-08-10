@@ -58,7 +58,7 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 * Prise casque stéréo<ref name="nin"/>
 *Indicateur de niveau de batterie<ref name="nin"/>
 *Alimentation : 4 piles AA, {{nobr|70 − 80 mA/h}}<ref name="nin"/>
-*Autonomie : but d'au moins {{heure|10}}<ref name="obso"/>. Jusqu'à {{heure|30}}<ref name="nin"/>
+*Autonomie : théoriquement d'au moins {{heure|10}}<ref name="obso"/>. Jusqu'à {{heure|30}}<ref name="nin"/>
 *pas de rétroéclairage<ref name="obso"/>
 
 == Accessoires ==
