@@ -109,6 +109,7 @@ La [[Game Boy Micro]] est une dernière version de la [[Game Boy Advance]]. Anno
 
 === Bibliographie ===
 * {{Ouvrage|titre=La Bible Game Boy|éditeur=[[Éditions Pix'n Love|Éditions {{Langue|en|Pix'n Love}}]]|mois=octobre|année=2013|pages totales=320}}
+* {{Ouvrage|prénom1=Florent|nom1=Gorges|titre=L’Histoire de Nintendo Vol.4 - 1989/1999|sous-titre=L'incroyable Histoire de la Game Boy|mois=février|année=2019|éditeur=Pix'N Love|pages totales=228|format=A5|présentation en ligne=https://www.editionspixnlove.com/l-histoire-du-jeu-video/851-l-histoire-de-nintendo-vol4-l-histoire-de-la-game-boy.html}}
 
 === Liens externes ===
 {{Autres projets
