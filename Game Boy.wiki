@@ -90,7 +90,7 @@ Commercialisé le {{date|14|avril|1998|en jeu vidéo}}<ref name=loh/> au Japon e
 == Successeurs ==
 === Game Boy Color ===
 {{Article détaillé|Game Boy Color}}
-Commercialisée le 23 novembre 1998 en Europe, la [[Game Boy Color]] (couramment référencée par GBC) propose un écran couleur pour une forme légèrement plus grande que la [[Game Boy Pocket]], et double la cadence du processeur et sa quantité de mémoire pour atteindre les {{unité|8|MHz}} et {{unité|32|ko}}. Un point intéressant réside dans sa capacité à lire les anciennes cartouches de jeux Game Boy en sélectionnant les couleurs à utiliser. Cette fonction de la console est importante, car elle a permis de raviver la commercialisation de la gamme existante des jeux Game Boy, et ainsi de proposer sensiblement plus de titres que ses concurrents directs. Technologiquement, cette console a été comparée à la [[Nintendo Entertainment System|NES]] des [[années 1980]].
+Commercialisée le 23 novembre 1998 en Europe, la [[Game Boy Color]] (couramment référencée par GBC) propose un écran couleur pour une forme légèrement plus grande que la [[Game Boy #Game Boy Pocket|Game Boy Pocket]], et double la cadence du processeur et sa quantité de mémoire pour atteindre les {{unité|8|MHz}} et {{unité|32|ko}}. Toutes les cartouches de jeux Game Boy sont lues. Les couleurs à utiliser sont sélectionnables, ce qui a permis de raviver la commercialisation de la gamme existante des jeux Game Boy, et ainsi de proposer sensiblement plus de titres que ses concurrents directs. Technologiquement, cette console a été comparée à la [[Nintendo Entertainment System|NES]] des [[années 1980]].
 
 === Game Boy Advance ===
 {{Article détaillé|Game Boy Advance}}
