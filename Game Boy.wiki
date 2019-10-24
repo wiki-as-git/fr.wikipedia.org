@@ -1,7 +1,7 @@
 {{Confusion|Game Boy Color|Game Bboy Advance}}
 {{Voir homonymes|GB|Game Boy (homonymie)}}
 {{Infobox Console de jeux vidéo
-| nom          = Game Boy vive l’algerie
+| nom          = Game Boy
 | logo         = Gameboy_logo.svg
 | image        = Game-Boy-Original.jpg
 | taille image = 190
