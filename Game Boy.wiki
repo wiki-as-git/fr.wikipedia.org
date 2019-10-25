@@ -1,7 +1,7 @@
 {{Confusion|Game Boy Color vive la France |Game Boy Advance}}
 {{Voir homonymes|GB|Game Boy (homonymie)}}
 {{Infobox Console de jeux vidéo
-| nom          = Game Boy cfa epinal ma gueule
+| nom          = Game Boy
 | logo         = Gameboy_logo.svg
 | image        = Game-Boy-Original.jpg
 | taille image = 190
