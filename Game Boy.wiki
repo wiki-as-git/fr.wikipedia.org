@@ -42,7 +42,7 @@ Bien qu'elle soit dotée d'un écran monochrome de 23 040 [[pixel]]s, la Game�
 La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son succès. En mars 1992, le prix du pack contenant la console et le jeu ''Tetris'' passe officiellement de {{unité|590|F}} à {{unité|690|F}}. Il se vend ensuite {{unité|499|F}} à partir de décembre 1992, et la console sans jeu passe sous la barre des {{unité|300|F}} à l'automne 1993{{refnec}}.
 
 == Caractéristiques ==
-[[Fichier:GameboyClear.jpg|thumb|Modèle transparent de la série Game Boy Play It Loud!.|275x275px]]
+[[Fichier:GameboyClear.jpg|thumb|Modèle transparent de la série ''Game Boy Play It Loud!'' (également appelée ''Game Boy Bros.'' dans certaines régions, allusion aux premiers jeux de la série [[Super Mario]]).|275x275px]]
 
 * Processeur principal : custom 8-bit Sharp z80 cadencé à {{unité|4.194304|MHz}}<ref name=loh>{{ja}} {{Lien web|url=http://www.nintendo.co.jp/n02/dmg/hardware/light/index.html|titre=Nintendo Japan Game Boy Light official homepage|consulté le=3 novembre 2009}}</ref>
 * Mémoire principale ([[Mémoire vive|RAM]]) : {{unité|8|Ko}}<ref>{{lien web|langue=en|url=http://marc.rawer.de/Gameboy/gameboy1.gif|titre=Gameboy Internals (CPU Section)|auteur=Marc Jeff Frohwin|consulté le=3 juin 2011}}</ref>
