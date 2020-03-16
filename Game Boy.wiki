@@ -6,7 +6,7 @@
 | image        = Game-Boy-Original.jpg
 | taille image = 190
 | fabricant    = [[Nintendo]]
-|code=''Dot Matrix Game''
+|code=Dot Matrix Game
 | type         = [[Console de jeux vidéo|Console portable]]
 | génération   = [[Consoles de jeux vidéo de quatrième génération|Quatrième]]
 | début        = {{Date de sortie de jeu vidéo|JP|21 avril 1989|AN|31 juillet 1989|EU|28 septembre 1990}}
