@@ -10,7 +10,7 @@
  | type         = [[Console de jeux vidéo|Console portable]]
  | génération   = [[Consoles de jeux vidéo de quatrième génération|Quatrième]]
  | début        = {{Date de sortie de jeu vidéo|JP|21 avril 1989|AN|31 juillet 1989|EU|28 septembre 1990|BRA|14 avril 1991}}
- | fin          = {{Date de sortie de jeu vidéo|AN|1999|EU|2000|JP|23 mars 2003}}
+ | fin          = {{Date de sortie de jeu vidéo|AN|1999|EU|2000|BRA|23 janvier 2003|JP|23 mars 2003}}
  | CPU          = [[Sharp (entreprise)|Sharp]] LR35902<ref>{{lien web|langue=ja|url=http://nintendods.exblog.jp/381307/|titre=解体新書。初代GBをバラしてみる。|périodique=nintendods.exblog.jp|en ligne le=29 septembre 2004|consulté le=2 aoüt 2014}}.</ref>
  | média        = [[Cartouche de jeu vidéo|Cartouche Game Boy]]<br><sup>'''[[Japon|JPN]]'''</sup> [[Nintendo Power (cartouche de jeu vidéo)|Nintendo Power]]
  | ventes       = <small>Chiffres combinés avec la [[Game Boy Color]]<ref name="ventes-console">{{Lien web |langue=en |titre=Dedicated Video Game Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |site=Nintendo Japan |date=}}.</ref> :</small><br>
