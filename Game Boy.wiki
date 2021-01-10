@@ -65,7 +65,7 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 * pas de rétroéclairage<ref name="obso"/>
 
 == Accessoires ==
-* [[Game Boy Camera]] : 128 × 112 [[pixel]]s, en 4 niveaux de gris : Jusqu'à 30 photos enregistrées dans la SRAM de {{unité|128|ko}}<ref>{{lien web|langue=en |url=https://web.archive.org/web/19980530121628/http://www.nintendo.com/gb/gb_camera/index.html |consulté le=30 mai 1998 |titre=Game Boy Camera |site=[[Nintendo of America]]}}.</ref>
+* [[Game Boy Camera]] : 128 × 112 [[pixel]]s, en 4 niveaux de gris : Jusqu'à 30 photos enregistrées dans la SRAM de {{unité|128|ko}}<ref>{{Lien archive|langue=en |horodatage archive=19980530121628 |url=http://www.nintendo.com/gb/gb_camera/index.html|consulté le=30 mai 1998 |titre=Game Boy Camera |site=[[Nintendo of America]]}}.</ref>
 * [[Game Boy Printer]] : cet accessoire permet d'imprimer les photos prises grâce à la ''Caméra Game Boy''. ''Printer'' est utilisé dans certains jeux comme ''Pokémon''.
 * [[Câble link]] : permet de relier 2 Game Boy (jusqu'à 4 avec la Game Boy Four Player Adapter (DMG-07)) entre eux pour jouer en multijoueur ou s'échanger des données.
 * Light Max : étant donné le manque de lisibilité de l'écran, [[Nintendo]] a sorti cette loupe couplée à 2 petites ampoules qui se clipse au-dessus de l'écran.
