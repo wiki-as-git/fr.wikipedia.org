@@ -15,7 +15,7 @@
  | média           = [[Cartouche de jeu vidéo|Cartouche Game Boy]]<br><sup>'''[[Japon|JPN]]'''</sup> [[Nintendo Power (cartouche de jeu vidéo)|Nintendo Power]]
  | ventes          = <small>Chiffres combinés avec la [[Game Boy Color]]<ref name="ventes-console">{{Lien web |langue=en |titre=Dedicated Video Game Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |site=Nintendo Japan }}.</ref> :</small><br>
 {{Date de sortie de jeu vidéo|INT|{{unité|118,69|millions}}|AN|{{unité|44,06|<small>millions</small>}}|EU|{{unité|42,16|<small>millions</small>}}|JP|{{unité|32,47|<small>millions</small>}}}}
- | jeu phare       = ''[[Tetris (Game Boy)|Tetris]]'' ({{nobr|100 millions}})<ref>{{Lien web |url=https://www.telegraph.co.uk/technology/news/5460283/Computer-game-Tetris-celebrates-25-years.html |titre=''Computer game Tetris celebrates 25 years'' |site=[[Daily Telegraph]] |date=6 juin 2009 }}.</ref>
+ | jeu phare       = ''[[Tetris (Game Boy)|Tetris]]'' ({{nobr|35 millions}})<ref>{{Lien web |url=https://www.telegraph.co.uk/technology/news/5460283/Computer-game-Tetris-celebrates-25-years.html |titre=''Computer game Tetris celebrates 25 years'' |site=[[Daily Telegraph]] |date=6 juin 2009 }}.</ref>
  | prédécesseur    = [[Game and Watch]]
  | successeur      = [[Game Boy Color]]
  | os              = Linux
