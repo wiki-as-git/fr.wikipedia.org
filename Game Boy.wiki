@@ -55,7 +55,7 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 * Mémoire vidéo : {{unité|8|Ko}}<ref name="Gameboy CPU Manual"/>
 * Capacités sonores : stéréo gauche ou droite. {{nobr|2 canaux}} signal carré (PULSE) (12,5 % 25 % 50 % 75 %), {{nobr|1 canal}} WAV 4bit programmable, {{nobr|1 canal}} bruit blanc (NOISE)<ref>{{lien web|langue=en|url=http://www.8bitcollective.com/wiki/index.php?title=Game_Boy#Sound |titre=Game Boy – 8bc Chiptune Wiki|date= 5 novembre 2008|consulté le=26 mai 2011}}.</ref>.
 * Mémoire de masse : cartouches de jeux de {{unité|32|Ko}} à {{unité|8|Mo}}<ref>{{lien web|langue=en|url=http://nocash.emubase.de/pandocs.htm#memorybankcontrollers|titre= Everything You Always Wanted To Know About GAMEBOY. (PanDocs)}}.</ref>
-* Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre)
+* Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre avec le connecteur officiel mais il est possible d'en relier plus avec un adaptateur custom)
 * Dimensions en mm : 148 × 90 × 32<ref name="nin"/>
 * poids : {{unité|220|g}}<ref name="nin"/>
 * Contrôle du contraste et du haut parleur<ref name="nin"/>
