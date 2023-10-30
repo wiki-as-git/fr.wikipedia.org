@@ -7,7 +7,7 @@
  | taille image    = 190
  | fabricant       = [[Nintendo]]
  | code            = Dot Matrix Game
- | type            = [[Console de jeux vidéo|Console portable]]
+ | type            = [[Console portable]]
  | génération      = [[Consoles de jeux vidéo de quatrième génération|Quatrième]]
  | début           = {{Date de sortie de jeu vidéo|JP|21 avril 1989|AN|31 juillet 1989|EU|28 septembre 1990|BRA|14 avril 1991}}
  | fin             = {{Date de sortie de jeu vidéo|AN|1999|EU|2000|BRA|23 janvier 2003|JP|23 mars 2003}}
