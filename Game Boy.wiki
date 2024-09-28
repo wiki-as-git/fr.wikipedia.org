@@ -54,7 +54,7 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 * Capacités graphiques : 160×144 en {{nobr|4 nuances}} de gris<ref name="obso">[http://www.obsolete-tears.com/nintendo-game-boy-machine-49.html Nintendo Game Boy] obsolete-tears.com consulté {{date-|5 février 2016}}.</ref>, jusqu'à {{nobr|40 [[sprite (jeu vidéo)|sprites]]}} simultanément (8×8 ou 8×16)<ref name="Gameboy CPU Manual"/>
 * Mémoire vidéo : {{unité|8|Ko}}<ref name="Gameboy CPU Manual"/>
 * Capacités sonores : stéréo gauche ou droite. {{nobr|2 canaux}} signal carré (PULSE) (12,5 % 25 % 50 % 75 %), {{nobr|1 canal}} WAV 4bit programmable, {{nobr|1 canal}} bruit blanc (NOISE)<ref>{{lien web|langue=en|url=http://www.8bitcollective.com/wiki/index.php?title=Game_Boy#Sound |titre=Game Boy – 8bc Chiptune Wiki|date= 5 novembre 2008|consulté le=26 mai 2011}}.</ref>.
-* Mémoire de masse : cartouches de jeux de {{unité|32|Ko}} à {{unité|8|Mo}}<ref>{{lien web|langue=en|url=http://nocash.emubase.de/pandocs.htm#memorybankcontrollers|titre= Everything You Always Wanted To Know About GAMEBOY. (PanDocs)}}.</ref>
+* Mémoire de masse : cartouches de jeux de {{unité|32|Ko}} à {{unité|2|Mo}}
 * Connecteurs : port série pour mise en réseau des consoles (jusqu'à quatre avec le connecteur officiel mais il est possible d'en relier plus avec un adaptateur custom)
 * Dimensions en mm : 148 × 90 × 32<ref name="nin"/>
 * poids : {{unité|220|g}}<ref name="nin"/>
