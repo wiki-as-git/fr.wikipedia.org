@@ -101,6 +101,9 @@ La [[Game Boy Advance SP|version SP de la Game Boy Advance]], lancée en {{date|
 
 La [[Game Boy Micro]] est une dernière version de la [[Game Boy Advance]]. Annoncée à l'[[Electronic Entertainment Expo 2005|E3 2005]], elle est sortie en {{date||septembre|2005|en jeu vidéo}} en [[Amérique du Nord]] et au [[Japon]], et le {{date|4|novembre|2005|en jeu vidéo}} en [[Europe]]. Cette console portable est incompatible avec les jeux Game Boy et [[Game Boy Color]]. La Game Boy Micro a un poids de {{unité|80|grammes}} et une taille de {{unité|10|cm}} de long sur {{unité|5|cm}} de large et moins de {{unité|2|cm}} d'épaisseur. Sa façade est amovible et personnalisable. Sa principale qualité réside dans son petit écran fin et avec une assez bonne luminosité. La console joue aussi sur l'aspect [[retrogaming|rétrogaming]] avec sa façade [[Famicom]] très appréciée au [[Japon]]<ref>L'Histoire de Nintendo Volume 3, page 111 (Éditions Omaké Books, 2011).</ref>.
 
+== Inspiration ==
+En 2024, Ayaneo sort une console reprenant le design de la Game Boy<ref>{{Lien web|auteur=|titre=Pocket DMG et Pocket Micro : AYANEO annonce deux nouvelles consoles rétro avec de superbes écrans|jour=19|mois=mai|année=2024|url=https://www.clubic.com/actualite-527265-pocket-dmg-et-pocket-micro-ayaneo-annonce-deux-nouvelles-consoles-retro-avec-de-superbes-ecrans.html|site=clubic.com|éditeur=Clubic|consulté le=28 octobre 2024}}.</ref>.
+
 == Notes et références ==
 {{Références}}
 
