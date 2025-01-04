@@ -121,7 +121,8 @@ En 2024, Ayaneo sort une console reprenant le design de la Game Boy<ref>{{Lien w
 | commons     = Category:Game Boy line
 | commons titre = Game Boy et ses variantes
 }}
-* {{Site officiel|http://gameboy.com/}}
+{{Liens}}
+
 * {{en}} [https://web.archive.org/web/20080312035507/http://register.nintendo.com/systemsclassic?type=gb Game Boy] sur Nintendo.com
 * {{en}} [[wikia:nintendo:Game Boy|Game Boy]] sur Nintendopedia
 
