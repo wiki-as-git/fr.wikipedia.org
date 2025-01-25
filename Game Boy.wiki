@@ -35,10 +35,10 @@ Malgré la sortie de consoles portables techniquement plus avancées<ref name="a
  | height      = 160
  | float       = left
  | annotations = <!-- vide ou non, ce paramètre est obligatoire -->
-{{Étiquette|20|19|{{noir|Nintendo}}|11|n|blue}}
-{{Étiquette|22|87|{{noir|Couleur}}|11|n|blue}}
+{{Étiquette|20|19|{{noir|Game Boy}}|11|n|blue}}
+{{Étiquette|22|87|{{noir|Color}}|11|n|blue}}
 {{Étiquette|79|18|{{noir|Advance}}|11|s|blue}}
-{{Étiquette|77|45|{{noir|Advance}}|11|s|blue}}
+{{Étiquette|77|45|{{noir|Advance SP}}|11|s|blue}}
  | caption     = Divers modèles de Game Boy (de la Game Boy jusqu'à la [[Game Boy Micro]], hors Game Boy Light).
 }}
 
