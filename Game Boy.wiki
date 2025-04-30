@@ -74,7 +74,7 @@ La Game Boy connaît plusieurs variations de prix, dont une hausse liée à son 
 * Dimensions en mm : 148 × 90 × 32<ref name="nin"/>
 * poids : {{unité|220|g}}<ref name="nin"/>
 * Contrôle du contraste et du volume<ref name="nin"/>
-* Haut parleur intégré et prise casque stéréo<ref name="nin"/>
+* Haut-parleur intégré et prise casque stéréo<ref name="nin"/>
 * Indicateur de niveau de batterie<ref name="nin"/>
 * Alimentation : {{nobr|4 piles}} AA, {{nobr|70 − 80 mA/h}}<ref name="nin"/>
 * Autonomie : théoriquement d'au moins {{heure|10}}<ref name="obso"/>. Jusqu'à {{heure|30}}<ref name="nin"/>
