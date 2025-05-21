@@ -128,6 +128,7 @@ En 2024, Ayaneo sort une console reprenant le design de la Game Boy<ref>{{Lien w
 === Articles connexes ===
 * [[Liste de jeux Game Boy]]
 * [[Microvision]]
+* [[Histoire du jeu vidéo]]
 
 === Bibliographie ===
 * {{Ouvrage|titre=La Bible Game Boy|éditeur=[[Éditions Pix'n Love|Éditions {{Langue|en|Pix'n Love}}]]|mois=octobre|année=2013|pages totales=320}}.
