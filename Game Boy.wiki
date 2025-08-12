@@ -3,8 +3,8 @@
 {{Infobox Console de jeux vidéo
  | nom             = Game Boy
  | logo            = Gameboy_logo.svg
- | image           = Game Boy logo.png
- | taille image    = 210
+ | image           = Game-Boy-Original.jpg
+ | taille image    = 190
  | fabricant       = [[Nintendo]]
  | code            = Dot Matrix Game
  | type            = [[Console portable]]
