@@ -125,6 +125,11 @@ En 2024, Ayaneo sort une console reprenant le design de la Game Boy<ref>{{Lien w
 {{Références}}
 
 == Voir aussi ==
+{{Autres projets
+| commons     = Category:Game Boy line
+| commons titre = Game Boy et ses variantes
+}}
+
 === Articles connexes ===
 * [[Liste de jeux Game Boy]]
 * [[Microvision]]
@@ -135,12 +140,7 @@ En 2024, Ayaneo sort une console reprenant le design de la Game Boy<ref>{{Lien w
 * {{Ouvrage|prénom1=Florent|nom1=Gorges|titre=L'Histoire de Nintendo Vol.4 – 1989/1999|sous-titre=L'incroyable Histoire de la Game Boy|mois=février|année=2019|éditeur=Pix'N Love|pages totales=228|format=A5|isbn=978-2-919603-66-4|isbn2=2-919603-66-3|oclc=1100251639|présentation en ligne=https://www.editionspixnlove.com/l-histoire-du-jeu-video/851-l-histoire-de-nintendo-vol4-l-histoire-de-la-game-boy.html}}.
 
 === Liens externes ===
-{{Autres projets
-| commons     = Category:Game Boy line
-| commons titre = Game Boy et ses variantes
-}}
 {{Liens}}
-
 * {{en}} [https://web.archive.org/web/20080312035507/http://register.nintendo.com/systemsclassic?type=gb Game Boy] sur Nintendo.com
 * {{en}} [[wikia:nintendo:Game Boy|Game Boy]] sur Nintendopedia
 
